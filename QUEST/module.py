@@ -13,7 +13,7 @@ import matplotlib.lines as mlines
 
 from matplotlib.pyplot import figure
 
-class QUESTExplainer:
+class QUESTExplainerRegressor:
     def __init__(self, model, X_train, y_train, beta=5.0, random_state=None):
         """
         Initialize QUEST explainer
@@ -87,6 +87,9 @@ class QUESTExplainer:
             explainer = shap.TreeExplainer(temp_model)
             phi = explainer.shap_values(x)
             # Handle multi-class output
+            n_classes = len(phi) if isinstance(phi, list) else 1
+            phi_shape = phi[0].shape if isinstance(phi, list) else phi.shape
+            phi_dist = np.zeros((n_samples,) + phi_shape)
             phi_dist[s] = phi[0] if isinstance(phi, list) else phi
         
         # Compute uncertainty metrics
