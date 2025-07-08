@@ -1,0 +1,1501 @@
+﻿ID,GENDER,AGE,RACE/ETHNICITY,Diagnosis,MD,Assignment,EMR,LOS,RAR,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,AD,# Psychotropic Medications,# Administrations,Therapeutic Guidances
+1,F,49,W,"MDD, Recurrent, Unspecified",L,G,C,70,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,6,EG
+2,F,21,W,"MDD, Recurrent, Unspecified",A,G,C,309,0,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,3,27,CT
+3,M,28,L,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,376,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,5,0,26,0,0,0,8,0,0,0,15,0,4,0,0,6,64,CT
+4,F,63,L,Depressive Disorder NOS,L,G,C,115,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,3,14,CT
+5,M,34,L,"MDD, Single Episode, Severe With Psychotic Features",G,S,C,120,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,3,11,EG
+6,F,24,L,"MDD, Single Episode,Severe Without Psychotic Features",T,S,C,120,0,0,5,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,13,EG
+7,M,42,W,"MDD, Single Episode, Unspecified",T,G,C,113,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,14,0,1,5,0,0,6,26,EG
+8,M,21,W,Depressive Disorder NOS,L,,C,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,2,9,
+9,F,42,W,Depressive Disorder NOS,L,G,C,44,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,5,EG
+10,F,20,B,"MDD, Recurrent, Unspecified",L,,C,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,2,
+11,F,53,L,"MDD, Recurrent, Unspecified",T,G,C,67,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,9,EG
+12,F,34,B,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,135,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,12,0,6,0,0,4,28,EG
+13,M,32,W,Depressive Disorder NOS,I,G,C,170,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,6,CT
+14,M,20,W,Depressive Disorder NOS,A,G,C,156,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,8,EG
+15,M,43,W,"MDD, Recurrent, Unspecified",L,G,C,104,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,7,CT
+16,M,25,O/U,"MDD, Recurrent, Unspecified",L,G,C,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,EG
+17,M,51,W,"MDD, Recurrent, Unspecified",T,S,C,116,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,4,12,EG
+18,M,30,W,Depressive Disorder NOS,D,G,C,140,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,0,0,4,18,CT
+19,F,34,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,5,CT
+20,M,22,W,"MDD, Recurrent, Unspecified",L,G,C,116,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,TL
+21,F,38,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,54,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,CT
+22,M,50,W,"MDD, Recurrent, Unspecified",G,G,C,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,7,0,0,0,2,13,CT
+23,M,49,L,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,92,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,7,EG
+24,M,48,L,"MDD, Recurrent, Unspecified",L,G,C,48,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,3,7,EG
+25,F,43,W,Depressive Disorder NOS,D,G,C,68,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,13,CT
+26,F,51,L,Depressive Disorder NOS,W,S,C,78,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+27,M,54,W,"MDD, Recurrent, Unspecified",L,G,C,41,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,CT
+28,F,24,W,Depressive Disorder NOS,L,S,C,85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,4,EG
+29,F,18,W,Depressive Disorder NOS,W,G,C,111,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,3,9,CT
+30,M,66,W,"MDD, Single Episode, Severe With Psychotic Features",V,G,C,263,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,10,0,1,11,0,5,33,EG
+31,M,39,L,"MDD, Recurrent, Unspecified",B,G,C,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,2,8,CT
+32,M,52,W,"MDD, Single Episode,Severe Without Psychotic Features",T,,C,85,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,6,0,0,4,14,
+33,M,52,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,174,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,2,14,CT
+34,M,54,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,88,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,7,4,17,EG
+35,F,54,B,Depressive Disorder NOS,L,G,C,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,4,CT
+36,F,18,W,Depressive Disorder NOS,D,G,C,92,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,8,EG
+37,M,64,L,"MDD, Recurrent, Unspecified",M,,C,135,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,
+38,M,51,L,"MDD, Single Episode, Severe With Psychotic Features",B,G,C,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,8,0,0,0,0,0,0,3,14,EG
+39,F,53,W,"MDD, Recurrent, Unspecified",L,,C,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,4,0,0,0,2,7,
+40,M,26,W,"MDD, Single Episode,Severe Without Psychotic Features",A,,C,321,0,0,13,0,0,5,0,0,9,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,14,9,0,0,6,63,
+41,M,25,W,Depressive Disorder NOS,D,,C,289,0,0,12,0,0,0,0,0,0,0,0,0,0,0,12,0,6,0,0,0,0,0,0,0,0,0,0,0,18,0,0,4,48,
+42,F,41,W,Depressive Disorder NOS,L,,C,151,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,10,
+43,F,26,L,"MDD, Single Episode, Unspecified",T,,C,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,3,
+44,M,30,W,Depressive Disorder NOS,T,G,C,162,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,CT
+45,F,55,W,"MDD, Recurrent, Unspecified",L,G,C,20,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,CT
+46,F,21,W,Depressive Disorder NOS,D,G,C,121,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,10,EG
+47,M,52,W,"MDD, Recurrent, Unspecified",L,G,C,112,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,9,EG
+48,F,26,B,"MDD, Recurrent, Unspecified",B,G,C,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,11,0,0,0,0,0,0,0,0,0,0,0,0,2,23,EG
+49,M,56,L,"MDD, Single Episode, Unspecified",W,S,C,118,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,0,0,0,3,14,EG
+50,M,20,W,"MDD, Single Episode,Severe Without Psychotic Features",I,S,C,506,1,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,11,0,0,2,0,0,7,15,0,6,42,EG
+51,F,76,L,"MDD, Single Episode, Severe With Psychotic Features",V,G,C,368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,11,0,4,0,3,45,CT
+52,M,31,B,Depressive Disorder NOS,L,,C,71,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,
+53,M,54,B,"MDD, Recurrent, Unspecified",I,S,C,93,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,EG
+54,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,60,0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,9,CT
+55,M,49,W,"MDD, Single Episode,Severe Without Psychotic Features",G,G,C,193,0,0,0,0,0,0,3,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,1,0,0,5,19,TL
+56,M,49,L,Depressive Disorder NOS,D,G,C,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,TL
+57,F,28,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,136,0,0,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,3,16,TL
+58,M,36,L,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,130,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,3,11,TL
+59,M,35,L,"MDD, Single Episode,Severe Without Psychotic Features",G,G,C,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,4,0,1,4,14,TL
+60,M,60,B,Depressive Disorder NOS,L,S,C,121,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,10,EG
+61,F,30,L,Depressive Disorder NOS,L,G,C,114,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,3,11,CT
+62,F,19,L,"MDD, Recurrent, Unspecified",I,G,C,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,0,3,17,EG
+63,M,29,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,5,EG
+64,M,58,O/U,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,429,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,18,0,0,0,3,54,EG
+65,F,46,W,"MDD, Recurrent, Unspecified",L,G,C,94,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,3,0,0,4,12,EG
+66,M,25,L,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,69,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,4,7,CT
+67,M,19,O/U,"MDD, Single Episode, Severe With Psychotic Features",G,G,C,160,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,2,20,EG
+68,M,57,W,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,4,EG
+69,M,51,W,"MDD, Single Episode,Severe Without Psychotic Features",B,S,C,206,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,10,EG
+70,F,22,W,"MDD, Single Episode, Unspecified",L,G,C,46,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,3,5,CT
+71,M,19,B,Depressive Disorder NOS,D,G,C,50,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,CT
+72,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,189,0,0,8,0,0,0,5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,1,0,5,20,CT
+73,F,57,L,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,62,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,4,10,EG
+74,M,52,W,"MDD, Recurrent, Severe With Psychotic Features",T,S,C,392,1,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,3,0,0,0,0,0,0,17,0,0,14,0,0,4,51,EG
+75,M,30,L,Depressive Disorder NOS,I,G,C,72,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,6,EG
+76,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",T,S,C,140,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,6,0,0,3,17,EG
+77,M,51,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,100,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,3,8,CT
+78,F,29,W,Depressive Disorder NOS,L,S,C,64,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+79,F,44,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,147,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,12,TL
+80,F,19,W,"MDD, Recurrent, Unspecified",G,S,C,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,1,9,EG
+81,M,57,W,Depressive Disorder NOS,D,G,C,48,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,3,CT
+82,F,59,L,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,11,0,5,0,0,4,23,EG
+83,M,21,L,Depressive Disorder NOS,T,S,C,256,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,1,1,0,0,4,22,EG
+84,F,28,W,"MDD, Recurrent, Unspecified",W,G,C,118,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,5,0,0,4,16,EG
+85,F,40,W,"MDD, Recurrent, Unspecified",T,S,C,108,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,2,6,0,5,21,EG
+86,F,57,W,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,396,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,16,8,4,10,0,6,43,EG
+87,F,44,L,"MDD, Single Episode, Severe With Psychotic Features",D,G,C,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,3,5,EG
+88,M,55,W,Depressive Disorder NOS,G,S,C,244,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,12,0,0,0,0,4,22,EG
+89,M,29,W,Depressive Disorder NOS,L,G,C,66,1,0,3,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,CT
+90,M,27,B,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,98,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,8,EG
+91,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,137,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,3,11,EG
+92,M,43,L,"MDD, Recurrent, Unspecified",A,G,C,110,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,7,EG
+93,M,41,L,"MDD, Recurrent, Unspecified",B,S,C,92,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,6,EG
+94,M,64,W,"MDD, Recurrent, Unspecified",G,G,C,116,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,6,EG
+95,M,20,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,218,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,19,EG
+96,F,44,L,"MDD, Single Episode, Unspecified",L,S,C,68,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+97,M,56,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,191,0,0,0,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,16,CT
+98,F,60,W,"MDD, Single Episode,Severe Without Psychotic Features",F,G,C,166,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,6,0,0,0,2,12,CT
+99,M,50,L,"MDD, Single Episode, Severe With Psychotic Features",D,G,C,116,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,2,0,3,0,0,5,14,CT
+100,M,23,L,Depressive Disorder NOS,D,G,C,151,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,8,5,4,0,0,5,23,CT
+101,M,49,W,"MDD, Recurrent, Unspecified",W,G,C,62,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,EG
+102,M,22,W,"MDD, Recurrent, Unspecified",W,G,C,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,2,0,0,0,3,8,EG
+103,M,35,L,Depressive Disorder NOS,I,G,C,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,EG
+104,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,165,0,0,0,0,0,22,0,0,15,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,7,0,4,46,CT
+105,F,37,B,"MDD, Recurrent, Unspecified",I,G,C,386,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,2,25,CT
+106,M,49,L,"MDD, Single Episode, Severe With Psychotic Features",W,S,C,141,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0,0,0,0,2,12,EG
+107,F,21,O/U,Depressive Disorder NOS,I,G,C,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,10,CT
+108,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",I,G,C,158,0,0,0,0,0,0,0,0,19,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,27,EG
+109,M,18,W,Depressive Disorder NOS,T,S,C,89,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,4,0,0,3,13,EG
+110,F,32,B,Depressive Disorder NOS,T,G,C,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,EG
+111,F,52,W,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,96,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,EG
+112,F,20,W,"MDD, Recurrent, Unspecified",A,G,C,136,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,0,3,22,EG
+113,M,38,L,"MDD, Single Episode, Severe With Psychotic Features",B,G,C,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,0,0,0,0,0,0,6,0,0,0,0,3,15,EG
+114,M,52,W,Depressive Disorder NOS,G,G,C,104,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,5,CT
+115,F,28,O/U,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,43,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,EG
+116,M,46,W,"MDD, Recurrent, Unspecified",D,G,C,310,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,15,0,0,0,0,0,0,0,0,13,0,0,2,0,0,4,43,EG
+117,M,25,W,Depressive Disorder NOS,T,S,C,134,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,EG
+118,M,23,L,Depressive Disorder NOS,D,G,C,83,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,7,EG
+119,F,20,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,EG
+120,M,43,L,Depressive Disorder NOS,D,G,C,84,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+121,F,23,L,Depressive Disorder NOS,L,S,C,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,1,0,4,2,0,0,5,10,EG
+122,M,45,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,2,8,EG
+123,M,39,W,Depressive Disorder NOS,D,G,C,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,7,0,0,3,23,EG
+124,F,24,B,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,91,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,7,EG
+125,F,20,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,214,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,9,9,6,0,0,4,27,CT
+126,M,51,L,"MDD, Single Episode,Severe Without Psychotic Features",G,G,C,185,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,7,3,0,5,27,CT
+127,F,22,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+128,F,24,W,"MDD, Single Episode, Unspecified",L,G,C,55,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,TL
+129,F,18,O/U,"MDD, Recurrent, Unspecified",T,S,C,125,0,0,5,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,14,EG
+130,M,37,W,Depressive Disorder NOS,L,G,C,144,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,13,EG
+131,F,61,W,Depressive Disorder NOS,L,S,C,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,EG
+132,M,49,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,145,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,3,16,CT
+133,M,50,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+134,F,28,L,Depressive Disorder NOS,T,G,C,189,0,0,0,0,0,1,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,4,18,EG
+135,F,19,W,"MDD, Recurrent, Unspecified",A,G,C,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,3,0,0,0,0,1,0,0,3,8,TL
+136,F,22,B,"MDD, Recurrent, Unspecified",W,G,C,60,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+137,F,19,L,"MDD, Recurrent, Unspecified",L,G,C,44,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+138,M,30,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,87,0,0,0,0,2,0,0,0,11,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,5,0,0,5,22,CT
+139,M,23,L,Depressive Disorder NOS,D,S,C,54,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,6,EG
+140,F,24,O/U,"MDD, Single Episode, Unspecified",G,G,C,174,0,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,5,0,0,0,0,0,6,14,EG
+141,M,35,B,"MDD, Recurrent, Unspecified",W,G,C,63,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+142,F,38,L,"MDD, Recurrent, Unspecified",A,G,C,64,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,4,7,EG
+143,M,35,W,"MDD, Recurrent, Unspecified",D,G,C,61,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,CT
+144,F,25,B,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,47,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,4,8,EG
+145,M,58,W,Depressive Disorder NOS,T,G,C,290,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,0,0,3,36,EG
+146,F,20,L,Depressive Disorder NOS,A,S,C,137,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,13,EG
+147,F,28,L,Depressive Disorder NOS,L,G,C,65,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,3,0,0,4,11,EG
+148,M,25,W,"MDD, Single Episode, Severe With Psychotic Features",G,G,C,196,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,4,0,0,0,4,6,17,CT
+149,M,20,W,Depressive Disorder NOS,B,G,C,152,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,2,0,10,0,1,0,0,0,0,0,0,0,2,0,0,5,22,CT
+150,F,24,L,"MDD, Recurrent, Unspecified",L,S,C,41,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,EG
+151,M,71,W,"MDD, Recurrent, Unspecified",F,S,C,399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,37,1,0,3,54,EG
+152,M,45,W,"MDD, Recurrent, Unspecified",L,G,C,53,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,3,8,CT
+153,M,42,W,"MDD, Recurrent, Unspecified",L,G,C,130,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,CT
+154,M,52,W,"MDD, Recurrent, Severe With Psychotic Features",D,G,C,201,1,0,9,0,0,0,0,0,6,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,9,0,4,27,EG
+155,M,20,W,Depressive Disorder NOS,D,S,C,94,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,EG
+156,F,55,L,Depressive Disorder NOS,D,G,C,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,3,0,0,3,8,EG
+157,M,35,L,Depressive Disorder NOS,L,S,C,111,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,13,EG
+158,F,29,L,Depressive Disorder NOS,D,G,C,113,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,13,EG
+159,F,26,L,Depressive Disorder NOS,D,G,C,119,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,9,CT
+160,M,43,L,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,2,8,EG
+161,M,32,W,"MDD, Recurrent, Unspecified",W,S,C,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+162,F,26,W,Depressive Disorder NOS,L,G,C,59,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,10,0,0,0,2,0,3,13,CT
+163,M,22,W,Depressive Disorder NOS,L,S,C,63,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,5,EG
+164,M,62,W,Depressive Disorder NOS,D,G,C,143,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,10,CT
+165,F,27,B,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,12,0,11,0,0,0,0,0,0,0,10,11,0,5,46,EG
+166,F,20,B,Depressive Disorder NOS,L,G,C,129,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,2,11,EG
+167,F,59,B,"MDD, Recurrent, Unspecified",A,G,C,61,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,CT
+168,M,39,W,"MDD, Recurrent, Unspecified",L,S,C,76,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+169,F,59,W,"MDD, Recurrent, Unspecified",D,S,C,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+170,F,29,W,"MDD, Recurrent, Unspecified",D,G,C,184,0,0,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,EG
+171,M,32,W,"MDD, Recurrent, Unspecified",L,G,C,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,0,2,7,EG
+172,F,30,W,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,3,0,0,3,11,CT
+173,M,51,L,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,2,7,EG
+174,M,21,L,"MDD, Recurrent, Unspecified",B,G,C,120,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+175,M,63,B,"MDD, Single Episode, Unspecified",L,S,C,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2,5,EG
+176,M,43,O/U,"MDD, Recurrent, Unspecified",D,G,C,109,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,8,EG
+177,F,50,W,"MDD, Recurrent, Unspecified",D,S,C,424,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,17,0,0,0,0,0,0,0,18,15,0,5,74,EG
+178,F,40,O/U,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,310,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,4,0,0,0,0,0,0,0,0,0,4,0,4,3,0,5,32,EG
+179,F,49,W,"MDD, Recurrent, Unspecified",A,G,C,164,0,0,0,0,5,0,0,0,0,4,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16,CT
+180,F,45,W,"MDD, Recurrent, Unspecified",D,G,C,176,1,0,0,0,0,13,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,21,CT
+181,M,20,B,"MDD, Recurrent, Unspecified",G,S,C,150,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,EG
+182,M,47,L,"MDD, Recurrent, Unspecified",M,G,C,140,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6,1,0,0,4,17,CT
+183,M,61,L,"MDD, Recurrent, Unspecified",M,S,C,179,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,16,0,0,0,0,3,24,EG
+184,M,21,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,167,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,3,15,CT
+185,F,23,W,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,62,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,9,EG
+186,M,27,B,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,52,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,4,CT
+187,F,44,W,"MDD, Recurrent, Unspecified",G,S,C,149,0,0,0,0,12,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,25,EG
+188,M,30,W,"MDD, Single Episode, Severe With Psychotic Features",A,S,C,189,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,4,3,14,5,40,EG
+189,F,24,W,"MDD, Single Episode,Severe Without Psychotic Features",B,S,C,288,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,12,10,0,0,5,50,EG
+190,M,34,W,"MDD, Recurrent, Unspecified",L,S,C,156,0,0,0,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,3,18,EG
+191,M,43,W,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,322,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,2,26,EG
+192,M,19,W,Depressive Disorder NOS,L,G,C,20,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,EG
+193,F,47,W,Depressive Disorder NOS,L,S,C,143,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,12,0,0,4,23,EG
+194,F,19,W,Depressive Disorder NOS,L,G,C,138,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,CT
+195,F,46,W,Depressive Disorder NOS,D,S,C,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,2,9,EG
+196,M,56,W,Depressive Disorder NOS,T,S,C,155,1,0,4,0,0,0,6,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,18,EG
+197,M,47,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,164,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,0,2,0,0,4,20,EG
+198,F,37,B,"MDD, Single Episode, Unspecified",W,S,C,46,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,EG
+199,F,57,L,"MDD, Recurrent, Unspecified",T,G,C,67,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,4,10,CT
+200,M,18,L,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,190,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,15,0,0,0,0,0,0,8,0,0,0,0,0,3,31,EG
+201,F,54,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,41,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,2,0,0,4,7,EG
+202,F,24,B,"MDD, Single Episode, Severe With Psychotic Features",A,S,C,70,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+203,F,33,L,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,162,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,1,1,0,0,5,12,CT
+204,M,30,W,"MDD, Single Episode, Unspecified",T,G,C,207,0,0,5,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,22,CT
+205,M,41,L,Depressive Disorder NOS,D,G,C,94,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,9,TL
+206,M,26,W,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,83,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,5,EG
+207,M,48,W,"MDD, Recurrent, Unspecified",L,G,C,43,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,4,EG
+208,M,45,B,"MDD, Recurrent, Unspecified",D,S,C,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,7,0,0,0,2,17,EG
+209,F,51,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,61,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,6,CT
+210,F,18,W,"MDD, Recurrent, Unspecified",L,G,C,164,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,4,0,0,3,17,EG
+211,M,43,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,164,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,16,EG
+212,F,51,W,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,239,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,4,13,EG
+213,F,41,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,170,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,0,0,3,15,TL
+214,F,26,O/U,"MDD, Recurrent, Unspecified",D,S,C,125,0,0,6,0,0,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,4,25,EG
+215,F,42,L,"MDD, Single Episode, Severe With Psychotic Features",T,S,C,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+216,F,19,W,"MDD, Recurrent, Unspecified",A,G,C,101,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,9,EG
+217,F,61,L,"MDD, Single Episode, Severe With Psychotic Features",A,S,C,160,0,0,4,0,0,0,0,0,0,0,0,7,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,30,EG
+218,F,67,W,"MDD, Recurrent, Unspecified",W,G,C,427,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,15,0,0,3,34,EG
+219,F,56,W,"MDD, Recurrent, Unspecified",L,G,C,73,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,3,7,CT
+220,F,33,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,213,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,1,0,0,4,16,CT
+221,F,29,W,Depressive Disorder NOS,D,G,C,39,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,EG
+222,M,38,B,"MDD, Single Episode,Severe Without Psychotic Features",B,S,C,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,2,5,EG
+223,M,28,W,"MDD, Single Episode,Severe Without Psychotic Features",T,S,C,671,0,0,2,0,4,3,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,5,10,3,0,7,43,EG
+224,F,23,L,"MDD, Recurrent, Unspecified",W,S,C,82,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,3,10,EG
+225,F,29,W,Depressive Disorder NOS,L,S,C,62,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+226,F,46,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,119,0,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,3,15,EG
+227,M,51,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,141,0,0,6,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,5,0,0,5,19,TL
+228,M,27,L,Depressive Disorder NOS,A,G,C,49,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,4,EG
+229,M,25,L,Depressive Disorder NOS,D,S,C,1009,0,0,41,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,3,133,EG
+230,M,40,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,2,9,EG
+231,F,50,L,"MDD, Recurrent, Severe With Psychotic Features",D,S,C,107,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,3,9,EG
+232,M,54,W,"MDD, Recurrent, Unspecified",L,S,C,91,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,3,7,EG
+233,M,22,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,144,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+234,F,58,W,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,114,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,8,0,0,4,22,EG
+235,M,48,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,53,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,6,EG
+236,F,25,W,"MDD, Recurrent, Unspecified",T,S,C,119,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,12,EG
+237,M,30,O/U,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,2,8,EG
+238,M,44,B,"MDD, Recurrent, Unspecified",D,G,C,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,8,0,0,2,16,EG
+239,M,28,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,75,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,8,EG
+240,F,27,W,"MDD, Recurrent, Unspecified",A,S,C,327,0,0,0,0,13,0,0,0,0,0,11,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,3,0,0,4,32,EG
+241,F,51,L,"MDD, Recurrent, Unspecified",T,G,C,214,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,3,19,EG
+242,M,62,W,Depressive Disorder NOS,L,S,C,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,2,0,0,3,8,EG
+243,F,55,W,Depressive Disorder NOS,W,G,C,49,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+244,F,36,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+245,M,49,W,"MDD, Recurrent, Unspecified",M,G,C,160,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2,0,7,0,0,0,0,0,0,0,0,3,16,CT
+246,F,18,L,Depressive Disorder NOS,W,G,C,96,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,EG
+247,M,62,W,"MDD, Single Episode, Unspecified",M,G,C,158,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,2,14,EG
+248,F,49,O/U,"MDD, Single Episode, Severe With Psychotic Features",W,S,C,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,0,2,13,EG
+249,M,61,W,Depressive Disorder NOS,D,G,C,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,0,0,3,7,EG
+250,M,38,W,"MDD, Single Episode, Unspecified",T,G,C,115,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,11,EG
+251,F,43,O/U,Depressive Disorder NOS,L,S,C,65,0,0,0,0,2,1,0,0,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,16,EG
+252,M,36,B,"MDD, Recurrent, Unspecified",D,G,C,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,6,0,1,4,0,0,4,18,EG
+253,F,56,W,Depressive Disorder NOS,D,G,C,71,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,11,TL
+254,F,19,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,204,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,12,CT
+255,M,34,W,Depressive Disorder NOS,D,S,C,286,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,2,0,0,0,0,0,22,0,0,0,0,0,8,0,0,4,44,EG
+256,F,43,L,"MDD, Single Episode, Severe With Psychotic Features",D,G,C,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,3,4,6,0,4,18,CT
+257,F,19,L,"MDD, Single Episode, Unspecified",T,G,C,167,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,15,TL
+258,M,50,W,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,172,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,15,EG
+259,M,45,W,"MDD, Recurrent, Unspecified",B,G,C,164,1,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,5,0,0,3,25,CT
+260,M,58,W,"MDD, Recurrent, Unspecified",D,G,C,162,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,EG
+261,M,34,O/U,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,2,12,CT
+262,F,27,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,2,11,EG
+263,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+264,F,25,W,"MDD, Recurrent, Unspecified",T,,C,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,
+265,M,23,L,Depressive Disorder NOS,L,G,C,53,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,7,CT
+266,M,45,W,"MDD, Recurrent, Unspecified",D,G,C,379,1,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,2,36,CT
+267,F,49,W,Depressive Disorder NOS,T,G,C,720,0,0,30,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,64,EG
+268,F,27,L,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,88,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,6,0,0,4,15,CT
+269,F,30,W,"MDD, Recurrent, Unspecified",W,G,C,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+270,F,40,L,"MDD, Recurrent, Unspecified",M,S,C,159,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9,0,4,0,0,4,21,EG
+271,F,42,L,"MDD, Recurrent, Unspecified",L,,C,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,14,0,0,0,0,0,2,21,
+272,F,28,L,"MDD, Single Episode, Severe With Psychotic Features",D,S,C,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,1,0,0,3,7,EG
+273,M,35,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9,5,5,0,0,4,20,EG
+274,F,19,O/U,Depressive Disorder NOS,L,G,C,57,1,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,7,CT
+275,M,49,W,Depressive Disorder NOS,D,S,C,278,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,1,0,0,3,21,EG
+276,F,39,W,Depressive Disorder NOS,T,G,C,292,0,0,5,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,5,0,0,4,41,CT
+277,M,53,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,142,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5,2,0,2,0,0,6,19,EG
+278,M,48,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,84,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,5,EG
+279,M,19,W,"MDD, Single Episode, Severe With Psychotic Features",D,G,C,92,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,3,8,CT
+280,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,3,0,0,3,10,EG
+281,M,35,W,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,171,0,0,0,0,0,0,0,0,0,5,0,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,EG
+282,F,46,W,"MDD, Single Episode,Severe Without Psychotic Features",W,,C,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,1,11,
+283,M,54,L,"MDD, Recurrent, Severe With Psychotic Features",T,G,C,72,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,3,9,TL
+284,M,46,L,"MDD, Recurrent, Unspecified",D,S,C,121,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,7,EG
+285,F,23,B,"MDD, Recurrent, Unspecified",L,S,C,170,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,2,14,EG
+286,F,58,B,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,15,0,0,0,0,0,15,0,0,0,0,3,43,EG
+287,F,45,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,55,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,EG
+288,M,27,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,265,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,1,0,0,0,0,0,0,9,0,0,0,0,7,0,0,4,28,CT
+289,F,42,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,95,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,CT
+290,M,47,B,"MDD, Single Episode, Severe With Psychotic Features",B,G,C,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,8,0,4,0,0,3,16,EG
+291,F,51,W,"MDD, Recurrent, Unspecified",L,G,C,70,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,TL
+292,F,20,L,Depressive Disorder NOS,W,G,C,164,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,9,CT
+293,M,53,W,"MDD, Recurrent, Unspecified",T,G,C,691,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,0,16,0,2,18,1,0,9,50,CT
+294,F,27,W,Depressive Disorder NOS,T,G,C,93,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,6,EG
+295,F,43,L,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,74,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+296,F,20,L,Depressive Disorder NOS,A,G,C,133,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+297,M,33,W,Depressive Disorder NOS,W,G,C,47,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,CT
+298,M,64,L,"MDD, Recurrent, Unspecified",T,G,C,653,0,0,4,22,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,16,10,0,0,7,61,CT
+299,F,48,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,81,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+300,M,26,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,5,CT
+301,M,27,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,CT
+302,F,52,W,"MDD, Recurrent, Unspecified",L,G,C,74,0,0,4,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,EG
+303,F,48,O/U,Depressive Disorder NOS,D,S,C,52,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+304,F,53,W,"MDD, Recurrent, Unspecified",L,G,C,69,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,8,CT
+305,M,25,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,5,0,2,10,TL
+306,F,21,O/U,"MDD, Recurrent, Unspecified",L,S,C,47,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,EG
+307,F,61,W,"MDD, Recurrent, Unspecified",D,G,C,143,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+308,F,28,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,317,1,0,14,0,0,21,0,0,0,0,14,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,11,0,0,6,66,CT
+309,M,50,W,"MDD, Single Episode,Severe Without Psychotic Features",Q,G,C,141,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,0,0,3,12,EG
+310,F,25,L,Depressive Disorder NOS,L,S,C,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,0,3,0,0,3,10,EG
+311,M,40,W,"MDD, Recurrent, Unspecified",D,G,C,136,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,3,16,CT
+312,M,46,W,"MDD, Recurrent, Unspecified",W,G,C,144,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+313,M,52,L,Depressive Disorder NOS,L,S,C,137,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,9,EG
+314,F,60,W,"MDD, Recurrent, Unspecified",L,S,C,187,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,12,0,0,0,0,0,0,0,0,0,4,0,12,0,0,4,36,EG
+315,F,39,W,Depressive Disorder NOS,D,G,C,1001,0,0,0,0,69,1,0,0,0,0,0,0,0,0,0,0,0,0,24,10,0,0,5,0,0,1,45,0,57,30,0,9,242,CT
+316,M,18,W,"MDD, Recurrent, Unspecified",L,G,C,95,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,11,CT
+317,F,49,L,"MDD, Single Episode,Severe Without Psychotic Features",N,G,C,165,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,7,0,0,0,3,23,EG
+318,F,31,L,"MDD, Recurrent, Unspecified",N,G,C,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,10,0,0,0,0,0,0,0,11,0,5,0,0,4,28,EG
+319,M,28,W,Depressive Disorder NOS,D,S,C,69,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+320,F,57,W,"MDD, Recurrent, Unspecified",L,S,C,172,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,7,0,0,3,18,EG
+321,F,24,B,"MDD, Recurrent, Unspecified",D,S,C,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,EG
+322,F,29,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,1,0,0,2,15,CT
+323,M,46,B,"MDD, Recurrent, Unspecified",W,S,C,304,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,6,0,0,0,3,21,EG
+324,M,30,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,165,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,6,0,0,4,12,CT
+325,F,58,W,"MDD, Recurrent, Unspecified",D,S,C,187,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0,11,0,0,0,0,0,7,8,0,5,34,EG
+326,M,45,W,"MDD, Recurrent, Unspecified",D,S,C,171,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,2,28,EG
+327,M,39,W,"MDD, Recurrent, Unspecified",T,S,C,197,0,0,8,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,28,EG
+328,F,47,W,Depressive Disorder NOS,B,G,C,95,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,2,5,TL
+329,M,38,W,"MDD, Recurrent, Unspecified",A,S,C,219,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,35,0,0,0,9,0,0,0,0,0,0,9,6,0,0,5,61,EG
+330,F,48,W,"MDD, Recurrent, Unspecified",L,G,C,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,EG
+331,M,47,B,Depressive Disorder NOS,L,G,C,47,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,4,10,EG
+332,F,38,L,"MDD, Single Episode, Severe With Psychotic Features",W,S,C,383,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,9,0,0,0,0,0,0,0,0,0,33,0,7,0,0,4,65,EG
+333,F,20,L,Depressive Disorder NOS,Q,G,C,153,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,0,3,12,EG
+334,M,44,L,"MDD, Single Episode, Severe With Psychotic Features",B,G,C,139,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,EG
+335,F,18,L,Depressive Disorder NOS,W,G,C,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,2,6,TL
+336,F,20,B,Depressive Disorder NOS,B,S,C,127,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,11,EG
+337,F,21,W,"MDD, Recurrent, Unspecified",T,S,C,95,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,EG
+338,M,23,W,Depressive Disorder NOS,W,G,C,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,6,0,0,2,12,EG
+339,F,18,O/U,"MDD, Recurrent, Unspecified",L,G,C,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+340,F,37,B,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,182,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,2,15,EG
+341,F,29,L,Depressive Disorder NOS,L,G,C,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,2,5,TL
+342,M,33,W,Depressive Disorder NOS,W,S,C,168,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,18,0,0,7,0,0,0,0,0,7,0,0,4,39,EG
+343,F,18,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,71,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,3,8,EG
+344,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,157,0,0,6,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,16,EG
+345,F,22,L,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,145,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+346,F,51,L,"MDD, Single Episode, Severe With Psychotic Features",T,S,C,21,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,EG
+347,F,23,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,2,7,EG
+348,M,21,W,Depressive Disorder NOS,B,S,C,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,1,10,EG
+349,F,62,L,"MDD, Recurrent, Moderate",M,G,C,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,3,CT
+350,M,51,W,"MDD, Recurrent, Unspecified",N,S,C,243,1,0,9,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,4,23,EG
+351,F,39,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,35,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,6,EG
+352,F,44,W,"MDD, Recurrent, Unspecified",T,G,C,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,7,0,3,13,EG
+353,M,54,W,"MDD, Single Episode, Severe With Psychotic Features",W,,C,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,2,0,8,0,0,3,26,
+354,F,83,W,"MDD, Single Episode, Severe With Psychotic Features",F,G,C,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1,7,CT
+355,F,63,W,"MDD, Single Episode,Severe Without Psychotic Features",M,G,C,385,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,3,33,EG
+356,F,41,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,72,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,9,0,0,3,0,0,4,19,TL
+357,M,49,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,141,0,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,13,CT
+358,F,45,W,Mood Disorder NOS,L,S,C,188,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,EG
+359,M,27,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,7,4,0,0,3,23,EG
+360,F,46,B,Depressive Disorder NOS,U,,C,194,0,0,0,0,0,0,0,0,3,0,0,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,4,20,
+361,F,36,W,"MDD, Single Episode,Severe Without Psychotic Features",Q,G,C,378,0,0,14,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15,0,0,4,46,TL
+362,F,49,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,69,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,8,0,0,2,0,0,4,13,EG
+363,F,41,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,164,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,0,4,15,CT
+364,F,30,B,"MDD, Recurrent, Unspecified",D,G,C,169,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2,15,EG
+365,F,44,B,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,192,0,0,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,12,CT
+366,F,57,L,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,2,0,0,2,16,CT
+367,M,46,L,"MDD, Recurrent, Unspecified",L,G,C,66,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,3,9,EG
+368,F,41,W,"MDD, Single Episode,Severe Without Psychotic Features",Q,G,C,213,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,0,0,3,21,CT
+369,M,53,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,189,0,0,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,7,0,0,4,30,CT
+370,F,62,L,"MDD, Single Episode,Severe Without Psychotic Features",Q,S,C,359,1,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2,32,EG
+371,F,29,B,"MDD, Single Episode, Unspecified",D,G,C,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,2,5,CT
+372,M,23,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,455,0,0,0,0,5,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,11,0,0,4,86,CT
+373,M,53,B,Depressive Disorder NOS,W,G,C,167,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,8,CT
+374,M,30,L,"MDD, Recurrent, Unspecified",L,S,C,68,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,3,11,EG
+375,M,18,W,Depressive Disorder NOS,A,G,C,161,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,EG
+376,M,23,W,"MDD, Recurrent, Unspecified",L,G,C,337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,4,0,0,0,0,0,0,1,26,0,3,0,0,5,48,EG
+377,M,23,W,Depressive Disorder NOS,Q,G,C,41,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,CT
+378,F,21,O/U,Depressive Disorder NOS,L,G,C,139,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,10,CT
+379,F,50,L,"MDD, Recurrent, Unspecified",T,S,C,143,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,6,EG
+380,M,56,B,Depressive Disorder NOS,Q,G,C,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+381,F,20,W,"MDD, Recurrent, Unspecified",D,G,C,166,1,0,14,0,0,0,0,0,0,0,0,0,7,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,29,CT
+382,F,54,L,"MDD, Recurrent, Unspecified",A,S,C,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,5,0,0,1,0,7,4,0,0,6,22,EG
+383,M,39,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,530,1,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,7,0,0,0,0,0,4,0,0,54,0,0,24,23,0,6,157,EG
+384,F,19,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,EG
+385,F,59,W,"MDD, Single Episode,Severe Without Psychotic Features",U,G,C,145,0,0,0,0,6,0,0,0,0,0,0,5,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,5,18,TL
+386,F,28,W,Depressive Disorder NOS,D,S,C,93,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,7,EG
+387,F,36,L,Depressive Disorder NOS,W,G,C,1168,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,28,0,0,33,0,0,4,113,EG
+388,M,61,W,"MDD, Recurrent, Unspecified",N,S,C,167,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,3,7,EG
+389,F,25,W,"MDD, Recurrent, Unspecified",T,G,C,193,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,17,TL
+390,F,23,B,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0,2,10,CT
+391,F,28,L,"MDD, Single Episode, Unspecified",L,G,C,90,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+392,F,18,O/U,Depressive Disorder NOS,L,G,C,61,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+393,F,23,B,"MDD, Recurrent, Unspecified",N,S,C,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,2,5,EG
+394,F,18,W,Depressive Disorder NOS,T,G,C,378,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,1,0,0,0,0,0,0,0,0,46,0,0,0,0,0,3,63,CT
+395,F,36,W,"MDD, Recurrent, Unspecified",D,S,C,76,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,2,10,EG
+396,M,61,L,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,EG
+397,F,26,W,"MDD, Recurrent, Unspecified",Q,S,C,144,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+398,M,46,W,"MDD, Single Episode, Severe With Psychotic Features",B,G,C,470,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,18,0,0,0,2,0,3,0,0,5,38,EG
+399,M,20,W,Depressive Disorder NOS,N,G,C,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,CT
+400,M,51,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,67,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+401,F,54,O/U,"MDD, Recurrent, Unspecified",W,S,C,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,2,12,EG
+402,M,21,W,Depressive Disorder NOS,W,S,C,1162,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,3,0,0,0,47,0,0,0,0,134,0,50,29,0,0,6,296,EG
+403,F,48,W,"MDD, Recurrent, Unspecified",W,G,C,46,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,CT
+404,M,28,W,Depressive Disorder NOS,U,S,C,338,0,0,13,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,25,EG
+405,M,18,L,Depressive Disorder NOS,N,G,C,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,2,8,CT
+406,M,47,W,"MDD, Recurrent, Unspecified",N,G,C,747,1,0,0,0,0,27,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,3,87,EG
+407,M,54,B,Depressive Disorder NOS,D,S,C,157,0,0,7,0,0,0,0,0,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,7,7,0,0,5,33,EG
+408,F,21,W,Depressive Disorder NOS,T,G,C,132,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,12,CT
+409,M,19,W,"MDD, Recurrent, Unspecified",L,G,C,189,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,2,0,0,3,32,EG
+410,F,22,L,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,195,0,0,0,0,2,1,0,0,16,0,0,0,0,0,0,0,2,0,0,0,0,0,5,0,0,0,0,6,8,0,0,7,40,EG
+411,F,48,W,"MDD, Recurrent, Unspecified",N,G,C,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,7,0,0,0,0,0,6,0,0,3,19,EG
+412,F,52,L,Depressive Disorder NOS,U,S,C,333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,9,15,0,0,0,3,28,EG
+413,F,63,L,Depressive Disorder NOS,F,G,C,404,0,0,0,0,0,0,7,0,0,0,0,0,10,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,3,23,CT
+414,M,62,L,"MDD, Single Episode,Severe Without Psychotic Features",Q,G,C,322,0,0,0,0,14,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,27,4,60,EG
+415,M,39,W,"MDD, Recurrent, Unspecified",L,G,C,166,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,3,9,EG
+416,M,52,W,Depressive Disorder NOS,L,S,C,44,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,5,EG
+417,M,52,W,"MDD, Recurrent, Unspecified",T,S,C,168,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,EG
+418,M,39,W,Depressive Disorder NOS,U,S,C,524,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,42,0,0,0,0,0,21,0,0,3,68,EG
+419,M,31,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,139,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,0,6,9,0,0,5,23,EG
+420,F,38,W,"MDD, Single Episode,Severe Without Psychotic Features",L,,C,137,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,
+421,F,32,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,140,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,17,0,4,38,CT
+422,F,50,B,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,114,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+423,M,30,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,92,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,8,EG
+424,F,36,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,4,0,4,5,0,0,4,19,EG
+425,F,50,W,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,859,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,36,22,0,0,4,64,EG
+426,M,21,W,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,2776,0,0,49,0,0,0,0,0,0,0,0,59,0,0,0,0,15,0,0,0,0,0,14,0,0,12,0,0,26,0,0,6,175,EG
+427,M,19,W,"MDD, Single Episode,Severe Without Psychotic Features",N,G,C,81,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,CT
+428,M,68,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,401,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,10,0,0,3,40,EG
+429,M,50,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+430,M,23,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,127,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,3,11,EG
+431,F,27,W,"MDD, Recurrent, Unspecified",L,G,C,95,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,CT
+432,F,22,L,"MDD, Single Episode,Severe Without Psychotic Features",Q,S,C,95,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,EG
+433,M,20,O/U,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,96,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,11,EG
+434,F,32,B,"MDD, Recurrent, Unspecified",N,S,C,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,2,0,0,3,15,EG
+435,M,37,L,Depressive Disorder NOS,U,G,C,188,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,EG
+436,F,37,L,"MDD, Single Episode, Severe With Psychotic Features",U,G,C,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,7,0,0,0,0,0,2,19,CT
+437,M,85,W,"MDD, Single Episode, Severe With Psychotic Features",F,G,C,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,2,CT
+438,M,41,W,Depressive Disorder NOS,B,G,C,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,EG
+439,M,30,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,39,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,4,EG
+440,F,40,O/U,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,64,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,CT
+441,M,59,W,Depressive Disorder NOS,D,G,C,211,0,0,6,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,5,5,0,0,6,32,EG
+442,F,46,L,"MDD, Single Episode, Unspecified",Q,G,C,192,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,4,0,0,4,24,CT
+443,M,60,W,"MDD, Single Episode,Severe Without Psychotic Features",K,S,C,124,0,0,5,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,15,EG
+444,F,40,W,"MDD, Single Episode,Severe Without Psychotic Features",K,G,C,122,0,0,0,0,0,0,0,0,5,5,5,5,0,0,0,0,2,0,0,5,0,0,0,0,0,0,0,0,0,0,0,6,27,CT
+445,M,26,W,"MDD, Recurrent, Unspecified",L,G,C,99,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,EG
+446,F,54,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,202,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,17,0,0,0,0,0,0,13,0,0,0,0,0,3,31,EG
+447,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",K,S,C,64,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+448,F,34,L,"MDD, Single Episode, Severe With Psychotic Features",K,G,C,143,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,10,EG
+449,M,24,W,"MDD, Single Episode,Severe Without Psychotic Features",K,G,C,136,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,9,EG
+450,M,56,W,Depressive Disorder NOS,K,G,C,171,0,7,1,0,0,0,0,0,7,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,21,EG
+451,M,35,W,"MDD, Single Episode, Severe With Psychotic Features",T,S,C,187,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,12,EG
+452,M,54,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,190,0,0,0,0,0,0,6,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,5,21,EG
+453,F,47,B,"MDD, Recurrent, Unspecified",W,G,C,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,6,0,0,8,9,0,4,37,CT
+454,F,35,L,"MDD, Recurrent, Severe With Psychotic Features",L,S,C,84,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,2,12,EG
+455,M,22,W,"MDD, Single Episode,Severe Without Psychotic Features",U,S,C,98,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,6,EG
+456,F,18,W,"MDD, Recurrent, Unspecified",T,G,C,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,4,CT
+457,F,31,W,Depressive Disorder NOS,K,G,C,69,1,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,8,TL
+458,M,19,L,"MDD, Recurrent, Unspecified",T,S,C,190,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,6,0,0,3,32,EG
+459,F,20,W,"MDD, Recurrent, Unspecified",L,G,C,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,2,12,EG
+460,F,20,W,Depressive Disorder NOS,K,G,C,69,0,0,2,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,EG
+461,F,51,W,Depressive Disorder NOS,W,G,C,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,6,0,0,2,16,TL
+462,M,54,W,Depressive Disorder NOS,K,,C,168,0,0,0,0,0,0,0,0,0,7,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,11,0,0,4,44,
+463,M,32,L,Depressive Disorder NOS,L,S,C,71,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,EG
+464,F,19,L,Depressive Disorder NOS,L,G,C,65,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,9,EG
+465,M,53,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,139,0,0,0,0,0,0,4,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,3,19,TL
+466,M,59,W,"MDD, Recurrent, Severe With Psychotic Features",Q,S,C,227,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,9,0,8,0,0,4,35,EG
+467,M,52,L,"MDD, Recurrent, Severe Without Psychotic Features",U,G,C,192,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,4,0,0,0,0,0,8,0,0,0,0,0,0,0,0,3,29,CT
+468,M,42,L,"MDD, Recurrent, Severe Without Psychotic Features",T,G,C,138,0,0,2,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,13,EG
+469,M,52,W,Schizoaffective Disorder,Q,G,C,91,1,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,9,0,0,0,0,0,0,0,0,4,0,0,3,0,0,5,20,EG
+470,M,41,W,Adjustment Disorder With Depressed Mood,K,S,C,145,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+471,F,29,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,C,146,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,CT
+472,M,27,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,C,66,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+473,F,35,W,Bipolar II Disorder,L,G,C,84,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,10,0,0,1,0,0,4,19,CT
+474,M,23,W,"MDD, Recurrent, Moderate",D,G,E,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TL
+475,M,44,L,Depressive Disorder NOS,B,G,E,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TL
+476,M,43,L,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+477,M,50,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,4,0,3,15,EG
+478,M,19,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,374,0,0,3,0,4,0,0,0,0,0,0,3,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,4,15,EG
+479,M,41,L,"MDD, Recurrent, Unspecified",K,G,E,338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,18,8,4,0,0,4,36,CT
+480,M,45,L,"MDD, Recurrent, Severe With Psychotic Features",L,G,E,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3,0,2,5,CT
+481,M,44,W,"MDD, Recurrent, Unspecified",D,S,E,525,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,22,0,0,0,0,0,2,44,EG
+482,M,48,B,"MDD, Recurrent, Unspecified",K,S,E,187,1,0,7,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,16,EG
+483,M,57,W,Depressive Disorder NOS,T,S,E,221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,9,0,0,0,2,21,EG
+484,M,29,L,"MDD, Recurrent, Unspecified",L,S,E,141,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,1,0,0,3,17,EG
+485,M,31,W,Depressive Disorder NOS,W,S,E,163,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,3,15,EG
+486,M,22,B,"MDD, Recurrent, Unspecified",L,G,E,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+487,M,36,L,MDD,B,G,E,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+488,M,33,B,MDD,L,S,E,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+489,M,21,L,MDD,B,G,E,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,6,0,0,0,2,19,EG
+490,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",D,S,E,529,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,22,0,0,3,66,EG
+491,M,58,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,451,0,0,8,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,8,0,14,0,0,0,0,0,0,0,4,0,0,5,52,EG
+492,M,36,W,Depressive Disorder NOS,K,G,E,88,0,0,3,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,4,12,CT
+493,M,49,W,"MDD, Single Episode, Severe With Psychotic Features",L,,E,336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,8,0,0,0,2,36,
+494,M,29,W,"MDD, Recurrent, Unspecified",B,S,E,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+495,M,26,L,"MDD, recurrent, severe",L,G,E,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+496,M,59,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+497,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+498,M,44,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,192,0,8,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,EG
+499,M,43,W,"MDD, Recurrent, Severe With Psychotic Features",L,G,E,215,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,27,0,0,6,0,0,4,54,EG
+500,M,62,W,MDD,Q,G,E,461,1,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,5,0,19,0,0,0,0,0,0,48,6,0,20,0,0,6,114,CT
+501,M,63,W,"MDD, Recurrent, Unspecified",L,G,E,265,0,0,5,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,3,0,0,4,26,CT
+502,M,39,L,"MDD, Single Episode, Unspecified",B,G,E,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,1,8,CT
+503,M,22,L,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,4,0,0,2,15,EG
+504,M,32,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,102,0,0,0,0,0,0,3,0,12,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,3,0,0,5,24,CT
+505,M,21,L,"MDD, Recurrent, Mild",T,G,E,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,6,0,0,2,20,EG
+506,M,18,W,Depressive Disorder NOS,L,S,E,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+507,M,54,B,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+508,M,69,W,"MDD, Recurrent, Severe Without Psychotic Features",F,G,E,214,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,2,12,CT
+509,M,62,W,"MDD, Recurrent, Severe Without Psychotic Features",F,G,E,571,0,0,9,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,17,0,0,0,1,0,0,0,0,0,0,4,48,EG
+510,M,32,B,Depressive Disorder NOS,R,S,E,283,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,24,0,0,0,0,0,0,0,16,1,0,0,0,0,0,5,47,EG
+511,M,18,B,"MDD, Single Episode, Mild",K,G,E,63,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,EG
+512,M,49,B,"MDD, Single Episode, Severe With Psychotic Features",T,G,E,117,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,1,0,0,0,4,13,EG
+513,M,58,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,363,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,2,31,EG
+514,M,22,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,108,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+515,M,62,W,"MDD, Single Episode, Unspecified",Q,S,E,195,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,7,0,0,3,21,EG
+516,M,36,L,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,160,0,0,0,0,0,0,0,0,15,0,0,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,7,0,0,4,36,EG
+517,M,49,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,72,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,7,CT
+518,M,47,L,"MDD, Recurrent, Severe With Psychotic Features",B,G,E,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,3,3,6,0,5,25,EG
+519,M,23,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,181,0,0,0,0,0,0,0,0,22,0,0,8,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,7,0,0,4,58,TL
+520,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+521,M,23,B,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,69,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,4,8,CT
+522,M,35,W,MDD,K,G,E,97,0,0,4,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,10,CT
+523,F,32,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TL
+524,M,53,W,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+525,M,43,O/U,"MDD, Recurrent, Severe With Psychotic Features",R,S,E,467,0,19,0,6,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,13,0,60,0,0,0,0,0,20,0,0,6,132,EG
+526,M,49,W,MDD,K,G,E,286,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,12,0,0,3,36,TL
+527,M,55,L,"MDD, Recurrent, Unspecified",U,G,E,191,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,CT
+528,M,23,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,88,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+529,M,38,W,MDD,W,G,E,170,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,7,0,0,3,35,CT
+530,M,31,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,113,0,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,0,0,5,15,CT
+531,M,41,B,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+532,M,58,W,"MDD, Recurrent, Unspecified",Q,G,E,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+533,M,34,L,"MDD, Recurrent, Severe Without Psychotic Features",D,G,E,50,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,6,EG
+534,M,23,L,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,133,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,0,3,15,CT
+535,M,55,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,136,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2,0,0,0,6,0,4,16,EG
+536,M,52,W,"MDD, Recurrent, Unspecified",K,G,E,188,0,0,3,0,0,0,0,0,8,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,23,EG
+537,M,18,L,"MDD, Single Episode, Severe With Psychotic Features",K,G,E,96,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,4,14,EG
+538,M,33,L,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,88,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+539,M,22,L,"MDD, Recurrent, Severe With Psychotic Features",W,G,E,237,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,17,0,0,0,0,0,1,0,0,8,14,0,10,0,0,6,59,EG
+540,M,24,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,216,0,0,9,0,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,4,36,EG
+541,M,39,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,152,0,0,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,5,0,0,4,22,EG
+542,M,30,W,"MDD, Single Episode,Severe Without Psychotic Features",K,G,E,133,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,EG
+543,M,56,W,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,119,0,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,EG
+544,M,28,B,MDD,K,S,E,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,2,6,EG
+545,M,18,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,146,1,0,1,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,7,0,5,0,0,0,0,5,25,EG
+546,M,18,W,"MDD, Recurrent, Unspecified",K,S,E,134,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,7,EG
+547,M,35,L,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,106,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,3,15,CT
+548,M,32,W,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,63,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,EG
+549,M,20,L,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,86,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,EG
+550,M,51,W,MDD,R,G,E,355,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,2,29,CT
+551,M,70,W,"MDD, Recurrent, Unspecified",Q,G,E,175,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,CT
+552,M,20,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,196,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,2,15,EG
+553,M,22,B,Depressive Disorder NOS,K,G,E,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+554,M,52,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,226,0,0,7,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,17,EG
+555,M,23,O/U,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,185,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,3,7,EG
+556,M,46,W,MDD,W,G,E,166,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,10,CT
+557,M,60,W,"MDD, Recurrent, Mild",L,G,E,402,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,17,0,0,0,0,16,0,0,0,0,0,4,67,CT
+558,M,53,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,174,0,0,0,0,11,0,8,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,34,EG
+559,M,53,B,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,456,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,19,CT
+560,M,55,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,28,0,0,3,40,EG
+561,M,49,B,"MDD, Recurrent, Severe With Psychotic Features",W,G,E,298,0,0,0,0,0,0,0,0,18,0,0,12,0,0,0,0,3,0,0,0,0,0,0,0,0,11,0,0,8,0,0,5,52,EG
+562,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",U,,E,428,0,0,0,0,0,0,0,0,14,0,0,18,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,16,0,0,4,52,
+563,M,18,W,"MDD, Single Episode, Unspecified",L,G,E,72,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,1,0,0,4,10,EG
+564,M,54,W,MDD,R,S,E,164,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,2,16,EG
+565,M,43,W,Depressive Disorder NOS,K,S,E,316,0,0,0,0,13,2,0,0,1,0,0,0,0,0,0,0,6,0,0,0,0,0,18,0,0,0,0,5,0,0,0,6,45,EG
+566,M,45,O/U,"MDD, Recurrent, Chronic",W,S,E,165,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,3,24,EG
+567,M,51,L,"MDD, Recurrent, Severe With Psychotic Features",W,G,E,190,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+568,M,62,W,MDD,M,G,E,141,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,6,CT
+569,M,74,W,"MDD, Recurrent, Severe With Psychotic Features",F,G,E,497,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,EG
+570,M,20,O/U,"MDD, Recurrent, Severe Without Psychotic Features",R,S,E,272,0,11,0,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,36,EG
+571,M,60,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,E,115,0,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,3,0,5,21,EG
+572,F,25,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,5,CT
+573,F,56,W,Depressive Disorder NOS,R,S,E,95,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,3,7,EG
+574,F,22,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,92,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,7,EG
+575,M,59,W,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,CT
+576,F,19,W,"MDD, Single Episode,Severe Without Psychotic Features",K,S,E,212,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,2,12,EG
+577,F,29,L,"Severe episode of recurrent major depressive disorder, without psychotic features",L,G,E,92,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,12,EG
+578,F,40,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,138,0,0,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,11,EG
+579,F,34,L,"MDD, Recurrent, Severe With Psychotic Features",B,G,E,373,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,26,0,22,0,0,0,0,0,0,1,0,0,4,0,0,5,69,EG
+580,M,64,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,E,208,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,5,0,0,0,0,0,2,11,EG
+581,M,19,W,"MDD, Recurrent, Severe Without Psychotic Features",R,S,E,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+582,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+583,M,55,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,147,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TL
+584,M,20,W,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+585,M,29,W,"MDD, Recurrent, Severe With Psychotic Features",T,S,E,161,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8,EG
+586,M,24,L,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,21,0,0,5,0,0,3,33,EG
+587,M,56,B,MDD,W,S,E,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,2,6,EG
+588,M,21,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,7,2,13,EG
+589,M,50,W,"MDD, Recurrent, Moderate",T,S,E,108,0,0,0,0,0,0,0,0,0,0,5,0,0,0,4,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,3,19,EG
+590,M,42,L,"MDD, Recurrent, Severe With Psychotic Features",J,G,E,107,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+591,M,23,L,"MDD, Recurrent, Severe With Psychotic Features",R,S,E,32,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,EG
+592,M,18,B,"MDD, Recurrent, Severe With Psychotic Features",J,G,E,129,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,7,EG
+593,M,20,B,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,200,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,16,EG
+594,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,84,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,5,EG
+595,M,26,W,"MDD, recurrent, severe with atypical features",W,S,E,42,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,EG
+596,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,15,0,0,2,0,0,3,23,EG
+597,F,34,L,"MDD, Single Episode, Moderate",L,S,E,71,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+598,F,18,W,"MDD, Recurrent, Moderate",W,G,E,165,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,0,0,3,17,CT
+599,M,50,W,"MDD, recurrent, severe",W,G,E,617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,1,27,CT
+600,M,60,L,"MDD, Recurrent, Severe With Psychotic Features",Q,S,E,119,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,2,5,EG
+601,F,67,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,463,1,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,21,EG
+602,M,34,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,117,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,EG
+603,M,49,L,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,102,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,3,0,0,4,19,EG
+604,M,72,W,MDD,F,G,E,187,0,0,5,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,CT
+605,M,47,W,"MDD, Recurrent, Severe With Psychotic Features",L,G,E,212,1,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,15,CT
+606,F,54,W,MDD,L,S,E,94,0,0,0,0,0,0,0,0,12,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,19,EG
+607,F,29,W,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,64,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,CT
+608,M,23,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,169,0,0,8,0,7,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,23,CT
+609,F,22,W,MDD,K,G,E,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,5,0,0,2,19,EG
+610,F,54,B,MDD,L,G,E,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,7,0,2,13,EG
+611,F,33,W,MDD,K,G,E,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,8,0,0,2,16,EG
+612,M,45,W,"MDD, Recurrent, Chronic",T,S,E,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,6,EG
+613,F,44,B,"MDD, Recurrent, Unspecified",R,S,E,112,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,0,5,14,EG
+614,M,24,L,MDD,R,G,E,117,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,9,CT
+615,M,45,L,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,11,0,0,0,0,2,13,EG
+616,M,55,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,161,0,0,0,0,7,0,0,0,0,0,0,7,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,7,0,0,4,35,EG
+617,M,59,L,"MDD, Recurrent, Severe With Psychotic Features",R,S,E,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+618,F,25,W,MDD,W,S,E,187,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,17,EG
+619,F,26,W,MDD,R,G,E,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+620,F,34,L,MDD,K,G,E,94,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,0,4,12,EG
+621,F,35,B,MDD,T,S,E,235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2,3,EG
+622,M,44,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,194,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,0,3,14,EG
+623,F,70,W,MDD,M,G,E,163,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,EG
+624,F,61,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,178,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,11,CT
+625,F,28,W,MDD,R,,E,285,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,2,24,
+626,F,44,O/U,MDD,K,G,E,166,1,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,9,0,7,0,0,0,0,0,0,18,0,0,0,0,0,5,50,CT
+627,M,57,W,MDD,L,G,E,121,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,5,1,0,0,0,0,0,0,0,5,0,0,2,0,0,5,20,EG
+628,F,40,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,118,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,1,0,0,4,11,EG
+629,M,54,B,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,185,0,0,0,0,0,0,9,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,5,0,4,0,0,6,27,EG
+630,M,52,W,MDD,L,S,E,212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,9,0,0,2,0,0,3,20,EG
+631,F,34,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,70,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,CT
+632,F,75,W,"MDD, Recurrent, Severe Without Psychotic Features",M,G,E,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,EG
+633,M,18,W,MDD,R,G,E,133,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,EG
+634,M,41,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,171,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,4,16,EG
+635,M,66,W,"MDD, Single Episode,Severe Without Psychotic Features",Q,,E,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,3,
+636,M,55,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,401,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,18,0,0,0,2,19,EG
+637,M,39,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,68,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+638,F,39,L,Depressive Disorder NOS,W,G,E,86,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,8,0,3,0,0,5,18,TL
+639,F,18,O/U,"MDD, Recurrent, Severe With Psychotic Features",W,G,E,141,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,CT
+640,M,51,B,Depressive Disorder NOS,T,G,E,242,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,3,21,EG
+641,M,60,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,E,350,0,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,36,EG
+642,M,61,W,"MDD, Recurrent, Moderate",K,G,E,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,5,0,3,11,CT
+643,F,30,O/U,"MDD, Single Episode,Severe Without Psychotic Features",K,S,E,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,EG
+644,M,62,W,"MDD, Recurrent, Chronic",Q,G,E,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1,7,EG
+645,F,35,W,MDD,T,G,E,1126,0,0,0,0,30,0,0,0,0,0,2,39,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,13,0,0,5,107,CT
+646,M,45,L,"MDD, Recurrent, Severe With Psychotic Features",B,G,E,298,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,15,11,0,11,0,0,4,50,EG
+647,M,25,L,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,4,0,2,9,CT
+648,M,52,W,MDD,R,S,E,50,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+649,F,36,L,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,4,EG
+650,M,81,L,"MDD, Recurrent, Severe Without Psychotic Features",F,S,E,227,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,1,0,0,3,13,EG
+651,M,33,L,Depressive Disorder NOS,K,G,E,164,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0,3,16,EG
+652,M,54,B,"MDD, Recurrent, Severe With Psychotic Features",M,G,E,155,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,3,19,EG
+653,F,24,W,MDD,T,G,E,239,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,19,CT
+654,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,164,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,3,0,0,4,22,EG
+655,F,52,B,Depressive Disorder NOS,T,G,E,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+656,M,44,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TL
+657,M,54,L,"MDD, Recurrent, Severe With Psychotic Features",Q,G,E,159,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,8,EG
+658,M,63,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,133,1,0,5,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,3,16,EG
+659,F,19,W,MDD,R,G,E,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+660,F,37,W,MDD,R,G,E,111,0,0,4,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,14,EG
+661,M,45,W,"MDD, Recurrent, Severe With Psychotic Features",L,G,E,97,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,4,0,0,3,24,TL
+662,F,49,L,MDD,L,G,E,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,CT
+663,F,18,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,109,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,3,10,CT
+664,M,21,W,"MDD, Recurrent, Unspecified",L,G,E,28,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,4,6,CT
+665,F,24,W,Depressive Disorder NOS,R,S,E,382,1,0,0,0,0,0,0,0,24,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,42,EG
+666,M,53,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,2,20,CT
+667,M,57,B,"MDD, Recurrent, Severe With Psychotic Features",U,G,E,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,7,0,0,0,0,0,0,0,0,2,15,CT
+668,F,32,L,MDD,R,S,E,279,0,9,13,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,4,46,EG
+669,M,36,O/U,Depressive Disorder NOS,L,S,E,87,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,EG
+670,F,45,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+671,M,42,B,MDD,T,G,E,139,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,EG
+672,M,56,W,MDD,M,S,E,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,7,EG
+673,M,18,O/U,"MDD, Recurrent, Chronic",L,S,E,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+674,M,53,O/U,MDD,B,G,E,200,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,10,0,0,0,0,0,3,24,EG
+675,M,21,B,MDD,B,S,E,44,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,3,EG
+676,F,42,W,"MDD, Recurrent, Severe With Psychotic Features",B,G,E,72,1,0,4,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,CT
+677,M,48,L,MDD,B,S,E,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,2,12,EG
+678,M,29,W,"MDD, Single Episode, Moderate",L,S,E,88,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,EG
+679,F,45,B,"MDD, Single Episode,Severe Without Psychotic Features",K,S,E,88,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+680,M,47,L,"MDD, Recurrent, Moderate",K,G,E,231,1,0,0,0,0,0,0,0,3,0,0,11,0,0,0,0,17,0,0,0,9,0,0,0,0,1,2,0,1,0,0,7,44,EG
+681,F,19,B,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,2,8,EG
+682,F,23,L,MDD,W,S,E,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,0,0,3,7,EG
+683,M,59,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,204,0,0,0,0,9,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,5,0,0,2,0,0,5,31,EG
+684,M,58,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,132,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,6,0,5,0,0,0,0,0,5,0,2,0,0,6,25,CT
+685,F,30,O/U,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,364,0,0,0,0,15,0,0,0,4,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,34,EG
+686,M,43,L,MDD,L,G,E,119,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+687,F,20,L,"MDD, Recurrent, Unspecified",K,S,E,101,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+688,F,29,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,118,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,EG
+689,F,31,W,"Major depressive disorder, recurrent, with postpartum onset",U,G,E,113,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,7,CT
+690,F,52,W,Depressive Disorder NOS,T,G,E,172,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,8,EG
+691,F,36,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,46,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,EG
+692,F,69,W,MDD,F,G,E,366,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,7,0,6,0,0,0,15,0,3,0,0,5,41,EG
+693,M,21,O/U,MDD,T,G,E,138,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,1,0,3,18,EG
+694,F,73,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TL
+695,F,54,L,Depressive Disorder NOS,T,S,E,181,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,3,15,EG
+696,F,18,L,Depressive Disorder NOS,K,G,E,157,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,12,CT
+697,F,18,L,"MDD, Recurrent, Severe With Psychotic Features",T,G,E,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+698,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,2,3,CT
+699,F,87,W,"MDD, Recurrent, Severe Without Psychotic Features",F,G,E,91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,4,EG
+700,M,47,L,"MDD, Recurrent, Severe With Psychotic Features",B,S,E,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,12,7,4,0,0,4,33,EG
+701,F,18,B,"MDD, Recurrent, Severe Without Psychotic Features",J,G,E,103,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,EG
+702,F,31,W,"MDD, Recurrent, Moderate",L,G,E,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,1,0,3,7,EG
+703,F,24,B,"MDD, Single Episode,Severe Without Psychotic Features",R,G,E,73,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,CT
+704,M,61,W,MDD,Q,S,E,613,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,17,0,15,8,0,4,51,EG
+705,F,45,L,"MDD, Recurrent, Severe With Psychotic Features",B,,E,188,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,4,0,0,0,0,0,0,0,0,18,0,0,0,0,0,4,31,
+706,F,19,O/U,"MDD, Recurrent, Moderate",L,G,E,112,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,10,EG
+707,F,24,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,48,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,6,EG
+708,F,21,O/U,"MDD, Single Episode,Severe Without Psychotic Features",K,G,E,21,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,EG
+709,F,50,W,MDD,B,G,E,185,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,EG
+710,F,67,W,MDD,M,S,E,235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,2,0,0,0,2,9,EG
+711,F,31,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,1,0,0,2,16,EG
+712,F,52,W,"Major depression, melancholic type",K,G,E,91,0,0,4,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,11,EG
+713,M,19,L,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,258,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,20,EG
+714,F,47,W,MDD,W,G,E,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,10,0,0,0,2,11,EG
+715,F,35,W,Depressive Disorder NOS,L,G,E,189,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,EG
+716,M,23,W,MDD,D,G,E,502,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,1,9,0,4,33,EG
+717,F,56,W,"MDD, Recurrent, Chronic",M,G,E,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,4,EG
+718,F,64,W,"MDD, Recurrent, Chronic",Q,G,E,314,0,8,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,5,0,0,4,44,CT
+719,F,56,L,"MDD, Single Episode,Severe Without Psychotic Features",Q,S,E,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,2,10,EG
+720,M,24,B,"MDD, Recurrent, Severe Without Psychotic Features",R,S,E,134,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,EG
+721,F,41,L,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,68,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,8,EG
+722,F,21,W,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,168,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,26,CT
+723,F,21,B,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,137,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,8,EG
+724,F,57,W,"MDD, Recurrent, Chronic",R,G,E,95,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,4,8,EG
+725,F,20,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,E,38,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+726,F,58,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,209,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,0,0,3,11,EG
+727,F,23,O/U,MDD,T,G,E,304,0,0,13,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,28,CT
+728,M,19,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,10,0,1,1,0,0,4,27,EG
+729,F,19,L,"MDD, Recurrent, Severe With Psychotic Features",L,S,E,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,8,0,0,0,0,2,12,EG
+730,F,20,L,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,4,5,0,0,4,18,EG
+731,F,74,W,MDD,F,G,E,519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,7,0,0,5,0,2,18,0,0,5,37,EG
+732,F,20,W,MDD,R,G,E,70,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,3,9,EG
+733,M,45,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,135,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,8,CT
+734,M,62,W,MDD,F,S,E,354,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,29,0,0,0,21,0,0,0,0,0,9,0,0,4,74,EG
+735,F,19,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,112,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,2,14,TL
+736,M,26,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,186,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,5,0,7,3,0,6,0,0,6,24,CT
+737,M,29,L,"MDD, Recurrent, Severe With Psychotic Features",R,S,E,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,4,EG
+738,F,21,L,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,4,CT
+739,F,38,L,"MDD, Recurrent, Severe With Psychotic Features",K,S,E,148,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,6,4,0,0,3,13,EG
+740,F,19,B,MDD,W,G,E,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,1,8,EG
+741,M,36,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,132,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,4,19,CT
+742,F,20,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+743,F,48,W,"MDD, Recurrent, Unspecified",K,G,E,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,5,0,0,2,12,CT
+744,F,33,L,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,93,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,12,CT
+745,F,23,B,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,88,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,3,10,EG
+746,F,52,L,"MDD, single episode with psychotic features, mood-conguent",T,G,E,135,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,CT
+747,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,73,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+748,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,147,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,5,0,0,3,23,EG
+749,F,31,L,Depressive Disorder NOS,L,S,E,52,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,2,6,EG
+750,M,26,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,144,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,8,CT
+751,F,48,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,86,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+752,F,25,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,EG
+753,F,41,W,MDD,L,G,E,166,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,13,EG
+754,F,23,L,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,141,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,EG
+755,F,22,W,"MDD, Recurrent, Moderate",U,S,E,151,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,10,EG
+756,F,50,L,"MDD, Recurrent, Severe Without Psychotic Features",W,S,E,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,EG
+757,F,30,W,MDD,R,G,E,1223,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,6,0,0,8,4,70,EG
+758,F,31,W,MDD,K,G,E,135,0,0,2,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,CT
+759,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",R,S,E,103,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,EG
+760,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,131,0,0,6,0,0,0,0,0,0,0,0,1,5,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,18,CT
+761,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,162,0,0,0,0,0,0,8,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,17,EG
+762,F,22,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,121,0,0,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,4,0,0,4,21,EG
+763,F,37,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,181,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,0,11,0,0,0,0,0,0,1,0,0,0,0,0,4,24,CT
+764,M,69,W,"MDD, recurrent, severe",Q,G,E,382,0,0,0,0,13,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,3,46,TL
+765,F,66,W,MDD,F,G,E,232,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,3,19,EG
+766,F,20,W,"MDD, Single Episode,Severe Without Psychotic Features",K,G,E,131,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,7,CT
+767,F,19,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,0,0,2,13,EG
+768,M,24,L,Depressive Disorder NOS,T,S,E,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+769,F,19,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,E,65,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,3,CT
+770,M,19,L,Depressive Disorder NOS,T,G,E,64,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+771,F,41,W,"MDD, recurrent, severe",T,G,E,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,4,0,3,9,TL
+772,F,22,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,264,0,0,0,0,0,0,4,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,3,22,EG
+773,F,25,L,MDD,K,G,E,71,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+774,M,19,W,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,15,0,0,0,6,0,22,0,0,0,5,10,0,6,64,EG
+775,F,43,B,MDD,W,S,E,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,EG
+776,M,43,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,181,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,15,EG
+777,M,58,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,139,0,0,7,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,CT
+778,M,32,L,Depressive Disorder NOS,L,G,E,38,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,EG
+779,M,21,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,89,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,CT
+780,F,56,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,92,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,8,EG
+781,M,59,W,Depressive Disorder NOS,K,G,E,649,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,27,CT
+782,F,37,L,MDD,K,G,E,115,0,0,0,0,0,2,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,13,EG
+783,F,20,L,MDD,W,S,E,26,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,EG
+784,F,33,W,MDD,R,S,E,50,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+785,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,135,0,1,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,12,EG
+786,F,57,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,E,141,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,13,EG
+787,F,37,B,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,53,1,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,2,0,0,5,13,EG
+788,F,54,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,9,EG
+789,M,48,W,MDD,R,G,E,887,0,0,0,0,72,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,41,4,168,CT
+790,F,24,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,158,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,3,15,EG
+791,F,34,B,"MDD, Recurrent, Severe Without Psychotic Features",W,S,E,330,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,17,EG
+792,M,34,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,324,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,21,1,0,0,0,0,0,0,0,0,4,6,0,6,42,EG
+793,M,63,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,E,215,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,27,0,9,0,0,0,0,6,0,0,0,0,0,4,51,EG
+794,F,19,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,72,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,3,9,EG
+795,M,55,W,"MDD, Single Episode,Severe Without Psychotic Features",K,G,E,55,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+796,F,21,L,"MDD, Recurrent, Severe With Psychotic Features",K,G,E,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+797,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,178,0,0,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,EG
+798,M,52,W,Depressive Disorder NOS,L,G,E,163,0,0,7,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,25,EG
+799,F,60,B,Depressive Disorder NOS,L,S,E,291,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,2,21,EG
+800,M,47,W,"MDD, Recurrent, Chronic",B,G,E,247,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,21,0,0,1,8,0,5,44,EG
+801,F,53,L,"MDD, Recurrent, Severe With Psychotic Features",B,G,E,54,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,3,7,CT
+802,M,24,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,161,0,0,3,0,5,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,15,EG
+803,F,52,W,"MDD, Recurrent, Chronic",L,G,E,139,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,9,EG
+804,F,67,L,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,159,0,0,7,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,EG
+805,M,63,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,5,5,0,0,3,22,EG
+806,F,18,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+807,F,72,W,MDD,M,G,E,410,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,35,TL
+808,F,27,B,Depressive Disorder NOS,K,G,E,158,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,2,21,EG
+809,F,22,O/U,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,2,5,EG
+810,M,70,B,"MDD, Recurrent, Severe Without Psychotic Features",M,G,E,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,2,10,EG
+811,M,53,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,427,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,14,0,17,0,0,4,128,EG
+812,M,53,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,E,96,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,9,EG
+813,F,33,L,"MDD, Single Episode, Mild",B,S,E,63,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,EG
+814,F,19,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,22,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,EG
+815,F,40,L,"MDD, Recurrent, Severe With Psychotic Features",K,S,E,177,0,0,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,23,EG
+816,F,32,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0,2,8,EG
+817,M,65,O/U,"MDD, Recurrent, Severe With Psychotic Features",R,,E,358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,36,20,6,13,0,0,5,85,
+818,M,43,L,MDD,B,G,E,141,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,9,CT
+819,F,73,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,332,0,0,9,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,3,37,EG
+820,M,21,W,"Severe episode of recurrent major depressive disorder, without psychotic features",R,G,E,164,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,11,0,1,0,0,0,0,0,0,0,5,0,0,4,25,TL
+821,M,32,W,"MDD, Recurrent, Severe With Psychotic Features",L,G,E,117,0,0,0,0,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,CT
+822,M,37,W,"MDD, Recurrent, Moderate",K,G,E,226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,19,0,10,0,0,3,36,EG
+823,F,20,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,174,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,0,0,3,13,CT
+824,F,62,W,MDD,Q,S,E,233,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,13,0,0,3,28,EG
+825,F,23,W,"MDD, Recurrent, Severe Without Psychotic Features",K,S,E,89,0,0,0,0,2,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,11,EG
+826,M,34,W,MDD,W,G,E,188,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,7,0,0,2,11,EG
+827,F,62,W,Depressive Disorder NOS,F,S,E,136,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,3,14,EG
+828,F,54,W,Depressive Disorder NOS,R,G,E,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,EG
+829,M,26,W,MDD,W,G,E,113,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,14,CT
+830,M,33,W,MDD,B,G,E,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,5,EG
+831,M,19,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,CT
+832,M,42,W,MDD,L,S,E,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,1,9,EG
+833,M,49,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,141,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2,7,CT
+834,F,46,W,"Severe episode of recurrent major depressive disorder, without psychotic features",K,,E,170,0,0,0,0,0,11,0,0,11,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,3,0,0,4,30,
+835,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,92,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,3,9,CT
+836,F,55,W,"Severe episode of recurrent major depressive disorder, without psychotic features",U,S,E,312,1,0,0,0,0,0,0,0,0,0,0,0,1,0,23,0,0,0,0,0,0,0,17,0,0,1,0,0,0,2,0,5,44,EG
+837,M,62,W,"MDD, Recurrent, Severe Without Psychotic Features",M,G,E,186,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,TL
+838,F,55,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,207,0,0,0,0,0,0,0,0,0,9,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,19,CT
+839,F,37,L,"MDD, Recurrent, Severe With Psychotic Features",T,G,E,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,7,7,0,0,3,28,CT
+840,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,1215,1,0,0,0,0,9,0,0,104,0,0,0,0,0,0,0,0,0,0,0,3,0,41,0,59,2,0,0,45,0,4,8,267,CT
+841,F,68,L,"MDD, Recurrent, Severe With Psychotic Features",Q,G,E,167,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,12,3,27,EG
+842,F,54,W,MDD,Q,G,E,211,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,16,CT
+843,M,25,L,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,69,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,9,EG
+844,F,52,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,723,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,61,CT
+845,F,19,W,MDD,L,G,E,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,CT
+846,F,28,L,"MDD, Recurrent, Severe With Psychotic Features",L,S,E,119,0,0,4,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,14,EG
+847,M,57,W,MDD,M,G,E,165,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,3,13,EG
+848,M,19,O/U,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,98,0,0,0,0,5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,10,EG
+849,F,24,W,"MDD, Recurrent, Chronic",T,G,E,281,0,0,0,24,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,34,CT
+850,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,48,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,5,CT
+851,F,61,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,,E,330,0,0,3,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,9,17,0,6,74,
+852,F,36,L,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,6,EG
+853,F,31,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,338,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,2,27,EG
+854,M,63,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,157,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,6,0,0,0,0,0,11,0,1,0,0,4,25,EG
+855,F,49,W,MDD,L,G,E,136,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,6,4,0,0,4,19,EG
+856,F,35,B,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,73,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+857,M,31,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,136,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,5,EG
+858,M,57,L,"MDD, Recurrent, Severe With Psychotic Features",M,S,E,259,0,0,0,0,0,0,0,0,1,0,0,12,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,4,0,0,4,28,EG
+859,F,25,W,Depressive Disorder NOS,B,G,E,779,1,0,0,0,5,0,0,0,0,0,0,0,0,0,10,0,0,0,55,0,0,0,4,0,0,16,0,2,2,0,4,8,98,CT
+860,F,36,L,Depressive Disorder NOS,W,S,E,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+861,M,50,L,"MDD, Recurrent, Severe With Psychotic Features",K,S,E,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2,34,EG
+862,F,34,L,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,135,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,11,EG
+863,M,23,O/U,Depressive Disorder NOS,R,G,E,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+864,F,61,W,"MDD, Recurrent, Severe Without Psychotic Features",F,G,E,186,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,8,7,0,3,22,CT
+865,F,43,B,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,188,0,0,8,0,0,0,0,0,0,7,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,26,EG
+866,M,27,L,"MDD, recurrent, severe",R,G,E,70,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+867,F,30,W,"Major depressive disorder, recurrent episode with anxious distress",R,G,E,429,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,2,26,TL
+868,F,45,L,"MDD, Recurrent, Severe With Psychotic Features",K,S,E,162,0,0,0,0,0,0,0,0,0,4,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,3,20,EG
+869,M,35,W,MDD,L,G,E,162,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,EG
+870,F,64,L,MDD,K,G,E,166,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,5,0,0,0,4,27,CT
+871,F,31,W,"	MDD, recurrent episode with anxious distress",K,G,E,118,0,0,0,0,5,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,15,EG
+872,M,24,B,"	MDD, recurrent episode with anxious distress",K,G,E,155,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,0,0,3,9,CT
+873,F,18,W,"	MDD, recurrent episode with anxious distress",W,S,E,46,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,EG
+874,F,18,L,"	MDD, recurrent episode with anxious distress",U,G,E,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,CT
+875,F,33,W,"	MDD, recurrent episode with anxious distress",U,G,E,132,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,6,0,3,12,EG
+876,F,56,W,"	MDD, recurrent episode with anxious distress",K,G,E,116,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,7,EG
+877,M,65,W,"MDD, Recurrent, Severe With Psychotic Features",U,S,E,180,0,0,0,0,0,0,0,0,0,0,2,0,0,0,9,0,0,0,1,0,7,0,0,0,0,3,0,0,0,0,0,5,22,EG
+878,F,72,W,"MDD, Recurrent, Moderate",Q,S,E,262,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,16,0,0,15,0,0,9,0,0,4,51,EG
+879,F,19,W,"MDD, Recurrent, Severe Without Psychotic Features",K,G,E,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,2,6,CT
+880,M,40,B,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+881,M,56,L,Depression,T,S,E,335,0,0,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20,EG
+882,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",U,S,E,149,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,5,21,EG
+883,F,27,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,156,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,6,EG
+884,F,73,W,MDD,M,G,E,1032,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,66,0,43,14,0,6,140,TL
+885,F,24,W,"MDD, Single Episode,Severe Without Psychotic Features",U,G,E,159,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,EG
+886,M,48,W,Depressive Disorder NOS,I,G,E,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+887,M,22,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,EG
+888,M,37,O/U,Depressive Disorder NOS,W,S,E,213,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,EG
+889,M,24,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,157,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,13,CT
+890,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,131,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,11,EG
+891,F,35,L,"MDD, Single Episode, Severe With Psychotic Features",L,S,E,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,2,0,0,3,9,EG
+892,M,22,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,647,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,20,0,3,87,EG
+893,F,20,B,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,184,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,CT
+894,M,42,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+895,F,30,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+896,F,42,L,"MDD, Recurrent, Severe With Psychotic Features",L,,E,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+897,F,52,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,349,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+898,M,51,O/U,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+899,F,36,W,"MDD, Recurrent, Moderate",U,G,E,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+900,M,69,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,408,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,51,CT
+901,F,30,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+902,M,23,W,"MDD, recurrent, severe",L,G,E,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+903,F,19,B,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+904,M,52,W,"MDD, Recurrent, Severe With Psychotic Features",W,S,E,169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+905,F,19,B,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+906,M,66,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,S,E,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+907,M,27,B,"MDD, Recurrent, Severe With Psychotic Features",I,G,E,189,0,0,0,0,0,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0,0,4,31,CT
+908,M,58,W,MDD,Q,S,E,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+909,M,51,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+910,M,48,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,432,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,2,37,EG
+911,F,30,W,"MDD, Recurrent, Severe Without Psychotic Features",I,G,E,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+912,M,22,L,"Major depressive disorder, recurrent episode, severe, with psychosis",I,G,E,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+913,M,43,W,MDD,R,G,E,381,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,2,33,CT
+914,M,47,W,"MDD, Recurrent, Severe With Psychotic Features",I,G,E,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+915,F,26,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+916,M,43,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,451,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,1,19,EG
+917,M,18,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+918,F,35,W,"MDD, Recurrent, Chronic",L,G,E,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+919,M,35,W,"	Depression, unspecified type",L,G,E,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+920,F,20,B,"MDD, Recurrent, Severe Without Psychotic Features",R,S,E,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+921,M,29,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+922,F,64,W,"MDD, Recurrent, Unspecified",M,G,E,513,1,0,0,0,0,0,0,17,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,30,CT
+923,M,18,W,Depressive Disorder NOS,U,G,E,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+924,F,27,W,MDD,T,S,E,159,0,0,0,0,0,1,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,0,5,18,EG
+925,M,26,W,"MDD, Single Episode, Severe With Psychotic Features",I,G,E,215,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,6,0,0,0,0,2,6,0,0,0,0,4,23,EG
+926,F,18,B,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,65,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+927,F,31,W,"MDD, recurrent, severe",R,G,E,148,0,5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,13,TL
+928,M,23,W,"MDD, Recurrent, Severe With Psychotic Features",L,S,E,123,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,6,4,0,0,4,12,EG
+929,F,35,L,"	MDD, recurrent episode with anxious distress",B,G,E,106,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,10,EG
+930,F,44,W,"	MDD, recurrent episode with anxious distress",W,G,E,134,1,0,0,0,6,0,0,0,0,0,0,0,6,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,29,EG
+931,F,41,B,"	MDD, recurrent episode with anxious distress",L,S,E,86,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,9,EG
+932,M,50,W,"	MDD, recurrent episode with anxious distress",U,G,E,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,4,EG
+933,M,63,L,"	MDD, recurrent episode with anxious distress",I,G,E,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,11,0,0,0,0,2,18,EG
+934,M,19,W,"	MDD, recurrent episode with anxious distress",L,G,E,154,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2,12,CT
+935,M,53,B,"	MDD, recurrent episode with anxious distress",I,G,E,232,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,EG
+936,M,47,W,"	MDD, recurrent episode with anxious distress",R,G,E,159,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,EG
+937,F,27,W,"	MDD, recurrent episode with anxious distress",W,G,E,250,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,22,CT
+938,M,36,W,"MDD, Recurrent, Severe With Psychotic Features",U,S,E,525,0,0,0,26,0,0,1,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,4,62,EG
+939,F,55,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,98,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,11,CT
+940,F,27,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,66,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,EG
+941,F,19,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,E,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,3,EG
+942,F,50,W,MDD,B,G,E,72,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,18,CT
+943,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,167,0,0,0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,4,15,EG
+944,F,21,B,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,47,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+945,F,54,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,137,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,TL
+946,F,47,W,"MDD, Single Episode, Moderate",L,G,E,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+947,F,53,W,MDD,B,G,E,974,0,0,0,0,0,0,4,0,0,0,0,36,0,0,0,0,5,0,5,0,0,0,41,0,0,0,0,0,0,8,0,6,99,EG
+948,M,24,L,"MDD, recurrent, severe",L,G,E,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+949,F,24,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,358,0,0,0,0,0,2,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,20,0,6,6,45,EG
+950,M,29,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+951,M,42,B,Depression with suicidal ideation,T,S,E,519,0,0,0,0,0,33,0,0,0,0,19,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,17,0,0,4,107,EG
+952,F,18,B,"MDD, Single Episode,Severe Without Psychotic Features",W,G,E,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+953,F,29,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,E,328,1,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,2,27,EG
+954,M,24,O/U,"MDD, Recurrent, Severe Without Psychotic Features",O,S,E,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,1,13,EG
+955,F,18,W,"MDD, Recurrent, Moderate",R,G,E,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+956,F,49,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,496,0,0,21,0,3,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,0,0,19,0,0,6,72,EG
+957,M,51,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,15,0,0,2,16,CT
+958,F,18,W,MDD,W,G,E,51,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+959,M,18,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,E,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+960,M,40,W,MDD,L,G,E,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+961,F,40,B,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,69,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+962,F,30,L,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+963,F,58,L,"MDD, Recurrent, Severe With Psychotic Features",F,G,E,212,1,0,9,0,7,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,4,24,EG
+964,M,26,W,"MDD, recurrent, severe",O,G,E,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,3,CT
+965,F,27,B,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,63,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,3,9,CT
+966,M,19,O/U,"MDD, Recurrent, Severe Without Psychotic Features",M,S,E,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0,2,10,EG
+967,F,49,W,"MDD, Recurrent, Severe With Psychotic Features",L,G,E,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,3,19,EG
+968,F,61,W,Depression,T,G,E,752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,1,23,0,0,3,33,EG
+969,M,22,L,"MDD, Recurrent, Severe With Psychotic Features",W,G,E,95,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,15,EG
+970,M,72,W,"MDD, Recurrent, Severe Without Psychotic Features",F,G,E,357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,11,15,0,3,33,EG
+971,F,37,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,156,1,0,0,10,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,4,26,EG
+972,M,36,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,90,0,0,0,0,0,0,0,7,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,4,17,EG
+973,M,47,W,"MDD, Single Episode,Severe Without Psychotic Features",R,S,E,182,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,11,EG
+974,M,19,W,MDD,L,G,E,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,7,0,0,2,15,EG
+975,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,E,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,CT
+976,M,54,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,E,467,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,6,0,0,11,0,0,4,39,EG
+977,M,19,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,220,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,21,EG
+978,F,41,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,202,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,7,EG
+979,F,53,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,11,0,0,31,0,0,3,44,EG
+980,F,19,B,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,163,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,CT
+981,F,64,O/U,MDD,W,S,E,475,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,6,22,0,4,64,EG
+982,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,271,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,2,26,EG
+983,F,31,B,MDD,L,S,E,145,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,3,12,EG
+984,F,21,O/U,"MDD, Recurrent, Severe Without Psychotic Features",O,,E,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,1,12,
+985,F,59,W,MDD,Q,S,E,692,0,0,0,0,28,0,0,0,10,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,14,0,6,66,EG
+986,F,38,W,Depressive Disorder NOS,O,G,E,257,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,EG
+987,F,45,W,"	Depression, unspecified type",W,S,E,265,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,12,EG
+988,M,25,W,"MDD, Recurrent, Severe Without Psychotic Features",W,S,E,240,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,9,10,0,0,4,34,EG
+989,M,18,W,"MDD, Recurrent, Severe With Psychotic Features",O,S,E,284,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,15,6,11,0,0,6,41,EG
+990,F,50,O/U,"MDD, Recurrent, Severe Without Psychotic Features",W,S,E,313,0,0,0,0,16,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,42,EG
+991,F,21,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2,5,CT
+992,F,19,W,"MDD, Recurrent, Severe Without Psychotic Features",O,S,E,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,5,EG
+993,F,23,L,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,290,0,0,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,0,0,4,23,EG
+994,F,30,L,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,209,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,15,0,0,0,0,0,3,31,EG
+995,F,29,W,"MDD, Recurrent, Severe With Psychotic Features",O,G,E,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,14,0,0,7,0,0,3,35,EG
+996,M,30,W,"MDD, Recurrent, Severe Without Psychotic Features",B,S,E,142,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,0,3,12,EG
+997,M,24,B,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,191,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,1,0,0,3,13,EG
+998,M,23,O/U,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,176,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,13,EG
+999,F,18,L,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,123,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,EG
+1000,F,34,B,"MDD, Recurrent, Severe With Psychotic Features",U,S,E,303,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,9,0,22,0,0,0,7,0,0,0,6,0,0,0,0,5,46,EG
+1001,F,50,L,"MDD, Recurrent, Severe With Psychotic Features",O,S,E,121,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,3,7,EG
+1002,F,55,L,MDD,M,S,E,190,0,0,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,EG
+1003,M,23,W,MDD,U,G,E,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,2,13,CT
+1004,M,35,O/U,MDD,O,G,E,695,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,29,23,23,0,0,5,84,CT
+1005,F,24,W,Depression,B,G,E,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,2,4,EG
+1006,F,48,W,"MDD, Recurrent, Severe With Psychotic Features",O,G,E,138,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2,16,EG
+1007,M,22,B,Depressive Disorder NOS,T,G,E,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,8,0,0,0,0,0,0,0,0,2,24,EG
+1008,F,68,W,MDD,F,S,E,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,0,0,27,4,0,0,9,7,0,6,62,EG
+1009,F,54,B,"MDD, Single Episode,Severe Without Psychotic Features",Q,G,E,219,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,19,CT
+1010,F,59,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,144,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,4,17,CT
+1011,M,48,L,MDD,W,G,E,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,7,0,0,0,2,21,CT
+1012,M,40,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,213,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,9,0,0,0,0,0,0,0,0,0,2,0,6,0,0,4,23,EG
+1013,M,61,O/U,MDD,B,G,E,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,6,8,0,0,3,26,EG
+1014,M,20,L,"MDD, Recurrent, Severe With Psychotic Features",U,G,E,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,2,6,CT
+1015,M,53,L,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,210,0,0,3,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,CT
+1016,M,37,B,"MDD, Recurrent, Severe Without Psychotic Features",W,S,E,208,0,0,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,18,EG
+1017,M,25,O/U,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,172,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10,0,3,20,TL
+1018,F,29,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,12,0,0,0,2,19,EG
+1019,F,62,W,MDD,F,S,E,448,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,7,0,0,0,18,0,0,4,45,EG
+1020,F,19,B,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,83,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,EG
+1021,M,36,W,"MDD, Recurrent, Severe Without Psychotic Features",B,S,E,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,18,0,0,9,0,0,3,43,EG
+1022,F,74,W,"MDD, Recurrent, Severe Without Psychotic Features",Q,G,E,470,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,15,0,3,53,EG
+1023,F,29,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,570,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,21,24,26,6,157,EG
+1024,F,61,W,"MDD, Recurrent, Severe With Psychotic Features",Q,S,E,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,8,0,0,0,0,2,10,EG
+1025,M,30,L,Depression with suicidal ideation,O,S,E,110,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,3,14,EG
+1026,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,122,0,0,0,0,0,7,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0,0,4,26,CT
+1027,F,62,L,"MDD, Recurrent, Severe With Psychotic Features",M,G,E,191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0,2,0,0,0,3,11,CT
+1028,F,27,L,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,167,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,9,EG
+1029,F,18,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,5,0,0,2,14,CT
+1030,M,39,W,MDD,B,G,E,88,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+1031,M,20,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,111,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,13,CT
+1032,M,18,W,"MDD, Recurrent, Severe Without Psychotic Features",O,G,E,83,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,3,10,EG
+1033,F,19,W,"	Depression, unspecified type",O,G,E,92,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,EG
+1034,F,46,B,"MDD, Recurrent, Severe With Psychotic Features",T,G,E,190,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8,0,0,0,3,18,TL
+1035,F,33,L,"	Depression, unspecified type",R,G,E,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,12,0,0,7,0,0,3,26,EG
+1036,F,43,O/U,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+1037,F,22,W,MDD,B,S,E,431,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,2,29,EG
+1038,M,55,W,MDD,O,S,E,598,0,0,17,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,6,0,7,0,0,0,0,4,6,6,17,4,0,9,76,EG
+1039,M,20,W,"MDD, recurrent episodes",U,G,E,714,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,30,0,0,0,0,0,0,0,0,31,0,5,73,EG
+1040,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,90,0,0,4,0,4,0,0,0,0,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,19,CT
+1041,F,19,B,MDD,T,S,E,216,0,0,8,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,7,0,0,5,27,EG
+1042,F,55,L,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,1,9,0,3,24,EG
+1043,M,34,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,406,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,14,1,0,4,54,EG
+1044,F,53,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,300,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,6,EG
+1045,M,30,B,"MDD, recurrent episodes",W,S,E,324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,14,12,0,0,3,38,EG
+1046,F,46,W,Depressive Disorder NOS,B,G,E,185,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,1,0,0,0,0,0,0,8,0,0,0,0,0,3,17,TL
+1047,F,21,B,"Severe episode of recurrent major depressive disorder, without psychotic features",O,G,E,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,2,7,EG
+1048,M,18,W,Depressive Disorder NOS,U,G,E,551,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,CT
+1049,M,32,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,70,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+1050,F,24,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,71,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1051,M,33,W,MDD,O,S,E,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,EG
+1052,F,64,L,"MDD, Recurrent, Severe With Psychotic Features",R,G,E,255,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,CT
+1053,M,32,W,"MDD, Recurrent, Severe Without Psychotic Features",B,S,E,261,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,2,21,EG
+1054,F,29,O/U,"MDD, Recurrent, Severe Without Psychotic Features",B,S,E,95,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+1055,M,24,L,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,165,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,8,EG
+1056,F,24,B,MDD,R,G,E,281,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,15,EG
+1057,F,57,L,"MDD, Recurrent, Severe Without Psychotic Features",F,S,E,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,6,0,3,13,EG
+1058,F,23,L,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,190,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,9,EG
+1059,F,20,B,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,2,9,0,1,0,0,4,19,EG
+1060,F,66,W,Unspecified Depressive Disorder,T,G,E,2685,0,0,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,63,135,0,0,0,115,0,0,0,0,0,111,0,0,6,448,EG
+1061,F,36,W,"MDD, Recurrent, Severe Without Psychotic Features",P,S,E,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,2,0,0,2,0,0,3,15,EG
+1062,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,1,4,0,0,3,14,EG
+1063,M,49,O/U,"MDD, Recurrent, Severe With Psychotic Features",R,S,E,117,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,3,15,EG
+1064,M,30,L,Depressive Disorder NOS,T,G,E,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,1,0,0,3,12,EG
+1065,F,37,W,MDD,U,S,E,93,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,6,EG
+1066,M,37,W,MDD,W,G,E,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,1,17,EG
+1067,F,60,W,MDD,F,G,E,237,0,0,0,0,10,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,3,30,CT
+1068,F,19,W,"MDD, Recurrent, Severe Without Psychotic Features",U,,E,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1069,F,21,W,MDD,W,G,E,169,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,9,CT
+1070,M,21,L,MDD,T,G,E,126,0,0,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,13,EG
+1071,F,47,L,Depression,U,S,E,93,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,8,EG
+1072,F,53,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,287,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,11,0,21,0,0,5,0,0,1,0,0,5,50,EG
+1073,F,20,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,8,0,0,2,20,CT
+1074,F,18,L,"	Depression, unspecified type",U,G,E,183,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,5,1,0,4,36,EG
+1075,M,33,B,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,497,1,0,0,0,21,9,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,15,0,0,5,101,CT
+1076,F,48,B,Depressive Disorder NOS,W,G,E,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,0,2,15,EG
+1077,M,53,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,135,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6,0,4,5,0,5,25,EG
+1078,F,44,W,"MDD, Recurrent, Moderate",U,G,E,164,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,7,EG
+1079,F,20,O/U,"MDD, Single Episode, Severe With Psychotic Features",P,G,E,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2,5,EG
+1080,F,25,B,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,140,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,11,EG
+1081,M,69,W,"	MDD, recurrent episode with anxious distress",Q,G,E,576,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,9,0,0,3,66,CT
+1082,F,52,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,626,0,0,0,0,24,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,5,0,0,4,76,EG
+1083,F,49,W,"MDD, Recurrent, Severe With Psychotic Features",W,G,E,156,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,0,3,14,CT
+1084,F,18,W,"MDD, recurrent, severe",U,G,E,210,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,4,11,CT
+1085,F,20,B,"MDD, Single Episode,Severe Without Psychotic Features",R,G,E,327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,0,4,0,0,3,20,EG
+1086,M,18,O/U,MDD,B,S,E,117,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,8,EG
+1087,F,26,W,"MDD, Recurrent, Chronic",B,G,E,49,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,CT
+1088,F,37,L,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,89,0,0,0,0,0,0,0,0,1,0,1,0,4,0,0,0,0,0,0,0,0,0,7,0,0,4,0,0,0,0,0,5,17,EG
+1089,F,62,W,"MDD, Recurrent, Severe Without Psychotic Features",M,G,E,163,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,14,CT
+1090,M,38,L,"MDD, Single Episode,Severe Without Psychotic Features",U,S,E,92,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,3,10,EG
+1091,F,47,W,MDD,B,S,E,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19,0,0,6,0,0,3,26,EG
+1092,M,54,L,"MDD, Recurrent, Severe Without Psychotic Features",B,S,E,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,4,EG
+1093,F,58,L,"MDD, Recurrent, Severe Without Psychotic Features",B,S,E,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,3,4,EG
+1094,M,22,W,"MDD, Recurrent, Chronic",U,S,E,313,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,3,0,0,3,33,EG
+1095,F,26,L,MDD,U,S,E,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,3,0,5,0,0,3,13,EG
+1096,F,25,W,"MDD, Recurrent, Severe With Psychotic Features",U,G,E,182,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,13,0,0,0,0,0,2,28,TL
+1097,M,24,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,78,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,CT
+1098,M,22,L,"MDD, Single Episode,Severe Without Psychotic Features",R,G,E,65,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,CT
+1099,F,21,B,MDD,W,S,E,184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,10,0,8,0,0,0,3,21,EG
+1100,M,59,W,Depression,B,G,E,210,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,9,0,0,3,48,TL
+1101,F,24,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,168,0,0,0,0,0,5,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,23,CT
+1102,M,44,W,MDD,U,G,E,215,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,1,0,0,3,11,CT
+1103,F,54,W,"MDD, Recurrent, Severe Without Psychotic Features",U,S,E,136,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,3,16,EG
+1104,M,24,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,E,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,22,0,2,7,0,0,4,42,EG
+1105,F,34,W,MDD,U,S,E,399,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,0,2,16,EG
+1106,F,52,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,141,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,CT
+1107,M,32,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,202,0,0,0,0,0,0,0,0,3,0,0,9,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,8,0,0,4,44,EG
+1108,F,41,W,"MDD, Recurrent, Severe Without Psychotic Features",R,G,E,356,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,8,0,0,16,0,0,0,4,48,EG
+1109,F,19,O/U,"MDD, Recurrent, Severe Without Psychotic Features",T,G,E,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,5,CT
+1110,M,51,W,"MDD, Recurrent, Severe With Psychotic Features",W,S,E,208,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,3,14,EG
+1111,M,27,B,"MDD, Recurrent, Unspecified",B,S,E,361,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,17,0,0,0,0,0,6,0,0,4,43,EG
+1112,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,137,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,EG
+1113,M,47,W,"MDD, Recurrent, Severe Without Psychotic Features",U,G,E,756,0,0,0,26,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,12,2,0,22,0,2,7,94,CT
+1114,F,49,W,MDD,R,G,E,500,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,21,0,0,3,128,EG
+1115,M,44,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,E,45,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,5,9,CT
+1116,M,22,W,"MDD, Recurrent, Severe Without Psychotic Features",W,G,E,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,TL
+1117,F,25,B,"MDD, Single Episode,Severe Without Psychotic Features",U,S,E,67,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3,5,EG
+1118,F,18,B,Depressive Disorder NOS,C,G,C,49,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,EG
+1119,F,77,W,"MDD, Recurrent, Moderate",F,G,C,377,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,12,0,0,0,0,0,3,35,EG
+1120,F,34,B,Depressive Disorder NOS,S,S,C,108,0,0,0,0,0,0,5,0,9,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,9,0,2,0,0,5,28,EG
+1121,F,50,B,"MDD, Recurrent, Severe Without Psychotic Features",A,G,C,65,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,CT
+1122,F,34,W,"MDD, Recurrent, Severe Without Psychotic Features",T,G,C,175,1,0,0,0,0,18,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,11,0,0,4,42,CT
+1123,M,51,W,"MDD, Recurrent, Severe Without Psychotic Features",C,G,C,370,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,16,0,0,0,0,10,0,0,9,0,0,5,39,CT
+1124,F,25,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,C,131,1,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,14,EG
+1125,M,37,L,Depressive Disorder NOS,L,G,C,104,1,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,4,9,CT
+1126,F,54,W,"MDD, Recurrent, Unspecified",H,,C,450,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,18,0,0,0,0,55,0,0,0,6,0,4,83,
+1127,M,20,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,1,10,EG
+1128,M,20,W,Depressive Disorder NOS,B,S,C,1629,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,2,0,0,2,75,EG
+1129,M,55,W,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,394,0,0,0,0,17,0,17,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,17,0,0,18,0,0,6,71,EG
+1130,F,56,B,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,41,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,EG
+1131,F,38,W,"MDD, Recurrent, Severe Without Psychotic Features",H,G,C,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,2,10,EG
+1132,F,62,B,"MDD, Recurrent, Severe Without Psychotic Features",F,S,C,75,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,7,EG
+1133,F,50,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,C,180,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,14,0,0,0,0,0,0,6,0,0,9,0,0,5,32,EG
+1134,F,25,B,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,83,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,EG
+1135,F,70,W,"MDD, Recurrent, Severe Without Psychotic Features",M,S,C,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,EG
+1136,M,35,L,Depressive Disorder NOS,T,S,C,109,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7,0,0,3,16,EG
+1137,M,66,W,"MDD, Recurrent, Severe Without Psychotic Features",A,S,C,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,EG
+1138,F,19,W,"MDD, Recurrent, Severe Without Psychotic Features",G,G,C,250,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,4,0,0,0,0,0,0,0,0,0,0,11,0,0,21,4,56,CT
+1139,M,62,L,"MDD, Recurrent, Severe With Psychotic Features",M,G,C,236,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,30,EG
+1140,F,34,W,Depressive Disorder NOS,T,G,C,207,0,0,1,14,0,4,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,2,0,0,6,31,TL
+1141,F,18,L,Depressive Disorder NOS,G,G,C,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,2,0,0,4,11,CT
+1142,F,48,W,"MDD, Recurrent, Severe Without Psychotic Features",G,G,C,61,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+1143,M,52,W,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,3,EG
+1144,M,23,W,"MDD, Recurrent, Severe Without Psychotic Features",A,S,C,93,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+1145,F,45,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,C,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,7,0,0,2,15,CT
+1146,F,18,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,C,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,4,6,0,3,17,CT
+1147,F,19,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,46,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,EG
+1148,M,51,L,"MDD, Recurrent, Unspecified",M,S,C,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,10,EG
+1149,M,65,B,Depressive Disorder NOS,A,G,C,104,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,2,9,EG
+1150,M,62,W,Depressive Disorder NOS,F,G,C,232,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,1,16,EG
+1151,M,33,W,Depressive Disorder NOS,T,S,C,157,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1152,M,48,W,Depressive Disorder NOS,L,S,C,73,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,6,0,1,4,0,5,19,EG
+1153,M,85,W,Depressive Disorder NOS,F,S,C,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,2,10,0,0,3,27,EG
+1154,F,63,B,"MDD, Recurrent, Severe Without Psychotic Features",W,G,C,237,0,0,10,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,24,CT
+1155,F,46,W,"MDD, Recurrent, Severe Without Psychotic Features",B,S,C,179,0,0,0,0,0,1,0,0,0,0,0,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,13,EG
+1156,M,54,L,"MDD, Recurrent, Severe Without Psychotic Features",L,G,C,149,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,8,0,0,9,6,0,4,29,CT
+1157,F,47,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,C,142,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,8,EG
+1158,M,46,B,"MDD, Recurrent, Unspecified",T,G,C,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,2,6,EG
+1159,F,68,W,"MDD, Single Episode, Severe With Psychotic Features",E,G,C,351,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,16,15,1,0,0,4,47,CT
+1160,F,21,W,"MDD, Recurrent, Severe Without Psychotic Features",L,S,C,52,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,EG
+1161,F,30,W,Depressive Disorder NOS,T,G,C,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,4,CT
+1162,F,68,W,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,526,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,59,0,7,22,0,5,91,EG
+1163,M,59,B,Depressive Disorder NOS,T,S,C,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1164,M,45,W,"MDD, Single Episode,Severe Without Psychotic Features",T,S,C,98,0,0,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,11,EG
+1165,M,22,W,"MDD, Recurrent, Unspecified",L,G,C,183,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,7,0,0,5,18,CT
+1166,F,23,L,"MDD, Recurrent, Severe Without Psychotic Features",B,S,C,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,5,0,0,3,12,EG
+1167,F,32,W,"MDD, Recurrent, Unspecified",B,G,C,162,0,0,0,0,6,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,10,4,30,CT
+1168,F,45,L,"MDD, Recurrent, Severe Without Psychotic Features",T,G,C,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,5,0,0,2,0,0,3,17,CT
+1169,M,65,W,Depressive Disorder NOS,F,G,C,187,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,1,6,0,1,0,0,5,19,EG
+1170,F,20,W,Depressive Disorder NOS,T,S,C,173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,7,7,0,3,24,EG
+1171,M,51,W,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,316,0,0,0,0,0,0,0,0,0,7,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,19,EG
+1172,M,21,W,"MDD, Single Episode, Severe With Psychotic Features",T,S,C,106,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,19,EG
+1173,M,34,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,4,0,0,3,11,EG
+1174,M,52,W,Depressive Disorder NOS,L,S,C,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,0,3,0,0,3,10,EG
+1175,F,57,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,2,15,EG
+1176,F,28,W,"MDD, Recurrent, Severe Without Psychotic Features",T,S,C,530,0,0,0,0,1,28,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,4,47,EG
+1177,M,30,W,Depressive Disorder NOS,T,G,C,335,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,21,0,0,9,0,0,0,0,0,4,44,EG
+1178,F,65,W,Depressive Disorder NOS,E,G,C,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CT
+1179,F,32,L,"MDD, Recurrent, Unspecified",L,G,C,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,0,0,8,0,0,4,0,0,4,22,CT
+1180,M,48,W,"MDD, Single Episode, Severe With Psychotic Features",B,S,C,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1181,F,62,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,46,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+1182,F,77,W,"MDD, Recurrent, Unspecified",V,S,C,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,7,12,2,0,4,33,EG
+1183,M,42,L,Depressive Disorder NOS,T,S,C,71,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,7,EG
+1184,M,23,L,"MDD, Recurrent, Unspecified",W,G,C,71,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+1185,M,54,W,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,181,0,0,5,0,0,0,0,0,0,0,8,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,33,TL
+1186,M,42,L,Depressive Disorder NOS,L,S,C,57,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,5,EG
+1187,F,46,W,"MDD, Recurrent, Severe Without Psychotic Features",A,G,C,146,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,CT
+1188,F,27,W,Depressive Disorder NOS,L,S,C,51,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,EG
+1189,F,51,L,"MDD, Recurrent, Unspecified",T,G,C,110,0,0,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,0,4,17,CT
+1190,F,23,O/U,"MDD, Recurrent, Severe Without Psychotic Features",I,G,C,132,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,11,EG
+1191,M,24,W,Dissociative Disorder NOS,I,G,C,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,11,0,0,0,0,0,2,15,TL
+1192,M,30,L,"MDD, Recurrent, Severe With Psychotic Features",T,G,C,157,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,11,CT
+1193,M,47,W,"MDD, Recurrent, Severe With Psychotic Features",W,S,C,329,0,0,0,0,25,0,0,0,4,0,0,0,15,0,0,0,12,0,0,0,0,0,15,0,0,0,0,0,11,0,0,6,82,EG
+1194,F,37,W,"MDD, Recurrent, Unspecified",L,S,C,51,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+1195,F,49,W,"MDD, Recurrent, Unspecified",T,S,C,339,1,0,0,0,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,3,24,EG
+1196,F,44,B,"MDD, Recurrent, Unspecified",L,S,C,74,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,3,11,EG
+1197,M,37,L,Depressive Disorder NOS,T,S,C,301,1,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,0,8,0,0,0,4,36,EG
+1198,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,41,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,CT
+1199,F,49,L,"MDD, Single Episode,Severe Without Psychotic Features",G,G,C,147,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,0,0,0,0,0,0,0,12,0,0,0,0,0,0,3,20,CT
+1200,F,38,L,"MDD, Recurrent, Unspecified",I,S,C,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,6,EG
+1201,F,55,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,186,0,0,2,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,8,0,0,4,31,TL
+1202,F,27,W,"MDD, Single Episode,Severe Without Psychotic Features",B,S,C,92,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+1203,M,38,B,Depressive Disorder NOS,B,S,C,203,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,2,19,EG
+1204,F,26,W,"MDD, Recurrent, Unspecified",I,S,C,190,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,9,EG
+1205,M,29,L,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,0,0,0,0,0,0,2,9,EG
+1206,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,EG
+1207,F,28,W,Depressive Disorder NOS,A,G,C,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+1208,M,51,W,Depressive Disorder NOS,G,,C,31,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,5,
+1209,M,26,W,Depressive Disorder NOS,B,G,C,154,1,0,0,0,6,0,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,4,21,EG
+1210,F,20,O/U,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,138,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,EG
+1211,M,60,B,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,11,0,0,2,27,EG
+1212,M,47,B,Depressive Disorder NOS,A,G,C,36,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,EG
+1213,F,35,L,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,0,0,2,15,CT
+1214,F,20,W,Depressive Disorder NOS,W,G,C,208,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,13,EG
+1215,M,18,L,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,94,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,3,13,EG
+1216,M,59,B,Depressive Disorder NOS,B,G,C,257,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,12,2,0,0,4,32,CT
+1217,F,50,L,"MDD, Single Episode, Severe With Psychotic Features",A,S,C,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,EG
+1218,M,44,L,"MDD, Single Episode, Severe With Psychotic Features",G,S,C,142,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,3,0,9,0,0,0,1,0,2,13,0,0,1,0,0,7,33,EG
+1219,F,18,W,Depressive Disorder NOS,G,S,C,126,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,11,EG
+1220,F,56,W,Depressive Disorder NOS,F,G,C,136,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,3,0,0,0,4,15,EG
+1221,M,38,W,"MDD, Recurrent, Unspecified",T,G,C,216,0,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,17,0,0,0,0,0,4,26,TL
+1222,M,46,L,"MDD, Single Episode,Severe Without Psychotic Features",B,S,C,157,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,EG
+1223,F,55,B,"MDD, Recurrent, Severe With Psychotic Features",A,S,C,67,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,1,0,0,4,9,EG
+1224,F,26,O/U,"MDD, Recurrent, Unspecified",G,G,C,953,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,16,0,22,0,0,0,0,0,0,70,0,0,39,11,0,6,165,CT
+1225,F,44,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,284,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,5,0,0,3,0,0,6,0,0,4,38,CT
+1226,F,56,L,"MDD, Recurrent, Severe With Psychotic Features",B,G,C,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,13,0,0,0,6,0,4,21,EG
+1227,F,33,B,"MDD, Recurrent, Unspecified",A,G,C,109,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,4,0,4,12,EG
+1228,M,53,W,"MDD, Recurrent, Unspecified",G,S,C,329,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,1,0,0,0,0,0,8,0,7,0,0,0,13,0,0,5,57,EG
+1229,M,54,W,"MDD, Recurrent, Severe Without Psychotic Features",B,S,C,78,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,2,6,EG
+1230,M,44,L,Depressive Disorder NOS,A,G,C,65,0,0,0,0,0,0,3,0,7,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,2,0,0,5,18,CT
+1231,M,30,W,Depressive Disorder NOS,T,S,C,183,0,0,0,0,0,0,8,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,12,0,0,4,38,EG
+1232,F,18,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,140,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1233,F,83,W,"MDD, Recurrent, Severe Without Psychotic Features",F,G,C,475,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,2,32,CT
+1234,M,53,B,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,EG
+1235,F,32,L,"MDD, Recurrent, Unspecified",B,S,C,116,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,EG
+1236,F,36,L,"MDD, Recurrent, Unspecified",T,S,C,192,0,0,6,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,22,EG
+1237,M,48,W,"MDD, Single Episode, Severe With Psychotic Features",T,S,C,108,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,7,0,0,4,21,EG
+1238,M,71,W,"MDD, Recurrent, Unspecified",M,G,C,712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,11,1,30,0,0,0,4,71,CT
+1239,M,20,W,"MDD, Recurrent, Unspecified",L,S,C,69,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,EG
+1240,F,46,B,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,231,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,1,9,0,0,5,34,CT
+1241,F,54,B,Depressive Disorder NOS,T,G,C,207,0,0,0,0,0,1,0,0,0,0,8,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,20,EG
+1242,F,60,B,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,171,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,21,CT
+1243,F,61,W,Depressive Disorder NOS,L,S,C,83,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,3,11,EG
+1244,M,38,L,Depressive Disorder NOS,T,G,C,388,0,0,0,0,0,3,0,0,18,0,0,0,0,25,0,0,0,0,0,0,14,0,0,0,0,0,0,0,8,0,0,5,68,EG
+1245,M,47,L,"MDD, Single Episode, Severe With Psychotic Features",G,S,C,191,0,0,0,0,7,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,5,0,0,3,0,0,5,42,EG
+1246,F,41,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,64,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,8,EG
+1247,F,47,W,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,2,10,CT
+1248,M,56,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,2,6,CT
+1249,F,40,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,124,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,3,12,CT
+1250,M,33,B,"MDD, Single Episode,Severe Without Psychotic Features",T,S,C,139,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1251,M,65,W,"MDD, Recurrent, Unspecified",L,G,C,122,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,2,0,0,3,8,EG
+1252,M,27,B,Depressive Disorder NOS,T,G,C,134,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,EG
+1253,F,18,B,"MDD, Recurrent, Unspecified",L,S,C,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,0,3,8,EG
+1254,F,25,B,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,116,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,11,EG
+1255,F,55,W,"MDD, Recurrent, Severe Without Psychotic Features",I,S,C,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+1256,F,36,W,"MDD, Recurrent, Severe Without Psychotic Features",B,G,C,168,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,8,0,0,0,0,0,0,0,0,5,0,0,0,0,0,4,20,CT
+1257,M,51,L,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,190,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,2,24,EG
+1258,M,28,W,"MDD, Recurrent, Unspecified",T,G,C,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,4,CT
+1259,M,45,L,Depressive Disorder NOS,L,S,C,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,2,4,EG
+1260,F,61,W,"MDD, Single Episode,Severe Without Psychotic Features",G,G,C,157,0,0,0,0,6,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,15,CT
+1261,M,51,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,116,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,14,EG
+1262,F,28,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,12,EG
+1263,M,21,L,Depressive Disorder NOS,W,G,C,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,6,0,3,0,0,3,12,CT
+1264,F,49,L,"MDD, Recurrent, Severe Without Psychotic Features",W,G,C,68,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,6,TL
+1265,F,21,L,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,0,0,0,0,2,12,EG
+1266,M,56,W,"MDD, Recurrent, Unspecified",L,G,C,140,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,13,EG
+1267,F,34,W,"MDD, Recurrent, Unspecified",T,G,C,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,CT
+1268,M,59,W,"MDD, Recurrent, Moderate",I,G,C,244,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,10,0,0,0,9,0,4,26,CT
+1269,M,19,B,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,136,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,9,EG
+1270,F,18,W,Depressive Disorder NOS,T,G,C,87,0,0,0,0,1,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,5,10,CT
+1271,F,20,W,"MDD, Recurrent, Unspecified",I,S,C,68,0,0,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,EG
+1272,M,51,L,Depressive Disorder NOS,I,,C,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,4,
+1273,M,75,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1,7,EG
+1274,F,64,L,Depressive Disorder NOS,F,G,C,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,0,0,3,7,CT
+1275,M,30,W,"MDD, Recurrent, Unspecified",W,G,C,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,0,0,2,10,CT
+1276,F,43,B,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,146,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,9,0,0,4,21,CT
+1277,F,52,B,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,3,5,CT
+1278,M,35,B,"MDD, Single Episode,Severe Without Psychotic Features",I,S,C,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,3,EG
+1279,F,52,L,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,135,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,12,CT
+1280,M,20,W,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,141,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,9,EG
+1281,F,26,W,Depressive Disorder NOS,L,G,C,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+1282,M,54,W,Depressive Disorder NOS,B,G,C,341,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0,7,0,0,4,41,EG
+1283,M,73,W,"MDD, Recurrent, Severe Without Psychotic Features",M,G,C,190,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,4,21,CT
+1284,M,85,W,"MDD, Single Episode, Severe With Psychotic Features",F,G,C,301,0,0,13,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,3,38,EG
+1285,F,34,W,Depressive Disorder NOS,L,G,C,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,3,EG
+1286,F,60,W,"MDD, Recurrent, Unspecified",D,G,C,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,4,0,0,0,0,13,0,8,5,0,0,5,40,CT
+1287,M,19,L,Depressive Disorder NOS,G,G,C,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0,0,1,0,0,3,9,TL
+1288,M,31,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,65,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,CT
+1289,M,49,W,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,100,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,3,8,EG
+1290,F,25,W,"MDD, Single Episode, Unspecified",A,G,C,353,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,3,0,0,3,30,CT
+1291,F,47,W,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,214,0,0,1,0,0,5,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,6,0,0,6,23,CT
+1292,F,19,W,Depressive Disorder NOS,D,S,C,121,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,7,EG
+1293,M,59,L,Depressive Disorder NOS,D,G,C,341,0,0,0,0,14,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,3,42,CT
+1294,F,42,W,"MDD, Recurrent, Unspecified",I,G,C,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,3,0,0,0,0,6,0,0,2,0,0,4,15,EG
+1295,F,46,W,"MDD, Recurrent, Unspecified",T,G,C,68,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,3,3,0,4,12,EG
+1296,F,45,W,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,64,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,CT
+1297,F,25,W,Depressive Disorder NOS,L,G,C,61,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,2,0,0,4,10,CT
+1298,M,66,L,"MDD, Single Episode, Severe With Psychotic Features",M,S,C,236,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,0,0,8,0,0,3,18,EG
+1299,F,47,B,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,3,6,EG
+1300,F,33,W,Depressive Disorder NOS,I,S,C,160,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,13,EG
+1301,M,49,L,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,142,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,12,EG
+1302,F,52,W,"MDD, Recurrent, Unspecified",B,G,C,137,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,1,0,0,6,0,0,5,19,CT
+1303,F,25,L,Depressive Disorder NOS,D,G,C,63,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,CT
+1304,M,19,W,Depressive Disorder NOS,D,S,C,54,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+1305,M,53,W,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,84,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,4,0,5,18,EG
+1306,M,75,W,"MDD, Single Episode,Severe Without Psychotic Features",M,G,C,90,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,3,7,TL
+1307,M,59,L,"MDD, Single Episode,Severe Without Psychotic Features",L,S,C,81,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,3,10,EG
+1308,M,34,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,71,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+1309,M,56,W,"MDD, Recurrent, Unspecified",L,G,C,193,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,EG
+1310,M,64,W,"MDD, Recurrent, Unspecified",M,S,C,183,0,0,0,0,8,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,18,EG
+1311,F,54,L,Depressive Disorder NOS,I,G,C,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,20,CT
+1312,F,24,W,"MDD, Recurrent, Unspecified",A,G,C,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,2,12,EG
+1313,F,72,W,"MDD, Recurrent, Unspecified",I,S,C,328,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,2,29,EG
+1314,F,60,L,"MDD, Recurrent, Unspecified",L,G,C,93,0,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,CT
+1315,F,50,W,"MDD, Recurrent, Unspecified",L,G,C,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,2,6,EG
+1316,F,18,L,"MDD, Recurrent, Unspecified",D,G,C,185,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,16,EG
+1317,M,36,W,"MDD, Single Episode, Unspecified",L,G,C,46,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,CT
+1318,F,64,B,"MDD, Recurrent, Unspecified",M,S,C,101,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+1319,F,42,W,"MDD, Recurrent, Unspecified",I,G,C,123,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,20,0,0,5,0,0,4,35,CT
+1320,M,26,W,"MDD, Single Episode, Unspecified",I,S,C,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,4,EG
+1321,F,22,W,Depressive Disorder NOS,B,G,C,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8,0,0,0,0,0,0,0,1,0,0,0,0,3,17,CT
+1322,M,32,B,Depressive Disorder NOS,T,G,C,147,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,8,EG
+1323,M,53,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,234,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,17,0,0,0,0,4,31,EG
+1324,M,48,L,"MDD, Single Episode, Unspecified",D,G,C,40,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+1325,F,32,W,Depressive Disorder NOS,L,S,C,138,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,9,EG
+1326,M,53,L,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,148,0,0,0,0,0,0,0,0,0,0,0,0,6,12,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,3,24,EG
+1327,M,25,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,115,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,4,0,0,4,14,EG
+1328,F,26,L,"MDD, Recurrent, Unspecified",T,G,C,49,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,4,TL
+1329,M,45,W,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,352,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,2,0,0,0,14,0,14,0,0,0,0,0,0,0,0,4,59,CT
+1330,M,71,W,"MDD, Single Episode,Severe Without Psychotic Features",V,S,C,428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,31,0,0,0,0,0,1,0,0,3,67,EG
+1331,F,56,L,"MDD, Single Episode, Severe With Psychotic Features",D,S,C,133,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,2,12,EG
+1332,F,54,B,"MDD, Recurrent, Unspecified",T,G,C,336,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,10,2,0,5,35,EG
+1333,M,47,W,"MDD, Single Episode, Unspecified",T,G,C,123,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,EG
+1334,M,40,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,355,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,7,0,19,0,0,0,0,0,0,0,0,0,15,0,0,4,56,CT
+1335,F,38,W,"MDD, Recurrent, Unspecified",G,,C,149,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,3,9,
+1336,M,58,L,"MDD, Single Episode,Severe Without Psychotic Features",G,,C,147,0,4,0,0,0,0,6,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,0,6,0,0,6,29,
+1337,F,75,W,"MDD, Single Episode,Severe Without Psychotic Features",F,S,C,371,0,0,16,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,3,46,EG
+1338,M,31,W,"MDD, Recurrent, Unspecified",W,G,C,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4,4,0,0,3,12,TL
+1339,M,58,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,195,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,7,0,0,0,6,0,0,0,0,0,0,0,7,0,0,5,29,EG
+1340,F,42,W,"MDD, Single Episode, Unspecified",G,S,C,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,EG
+1341,M,56,W,"MDD, Recurrent, Unspecified",D,G,C,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,2,8,CT
+1342,F,55,W,"MDD, Recurrent, Unspecified",T,G,C,238,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,3,6,CT
+1343,M,22,L,"MDD, Single Episode, Unspecified",I,S,C,407,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,23,EG
+1344,F,18,B,Depressive Disorder NOS,A,S,C,233,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,16,0,1,0,0,0,4,33,EG
+1345,M,22,L,"MDD, Single Episode,Severe Without Psychotic Features",T,S,C,188,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,8,4,0,0,4,35,EG
+1346,M,43,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,111,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,3,15,EG
+1347,F,27,B,Depressive Disorder NOS,B,G,C,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,6,EG
+1348,M,44,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,91,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,5,CT
+1349,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,166,0,0,7,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,4,22,CT
+1350,F,18,O/U,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,138,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,5,0,0,4,18,EG
+1351,M,24,L,Depressive Disorder NOS,D,G,C,73,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,2,0,0,4,10,EG
+1352,F,46,L,"MDD, Single Episode, Severe With Psychotic Features",A,S,C,357,0,0,2,0,7,0,0,0,0,0,0,0,4,1,0,0,12,0,0,0,0,0,10,1,0,0,0,2,3,0,0,9,42,EG
+1353,M,52,L,Depressive Disorder NOS,B,S,C,23,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,EG
+1354,F,55,W,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,85,0,2,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,8,0,4,0,0,0,0,0,0,0,1,0,0,7,19,CT
+1355,F,44,W,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,162,1,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,12,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,22,CT
+1356,M,24,L,"MDD, Recurrent, Unspecified",T,G,C,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,2,4,EG
+1357,F,43,B,"MDD, Single Episode, Severe With Psychotic Features",G,G,C,163,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,15,EG
+1358,F,44,W,Depressive Disorder NOS,D,G,C,335,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,16,0,0,3,44,EG
+1359,M,18,W,Depressive Disorder NOS,W,S,C,22,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,EG
+1360,F,20,B,Depressive Disorder NOS,W,S,C,123,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,10,EG
+1361,M,27,L,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,182,0,0,8,0,8,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,0,4,25,CT
+1362,F,18,L,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,194,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,0,3,17,CT
+1363,M,43,B,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,120,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+1364,F,56,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,98,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,1,0,0,4,11,EG
+1365,F,51,W,"MDD, Recurrent, Unspecified",G,G,C,89,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,3,0,0,0,2,0,0,4,16,EG
+1366,F,42,B,"MDD, Recurrent, Unspecified",G,G,C,227,0,0,0,0,7,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,5,6,0,0,4,0,0,5,26,EG
+1367,F,48,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,68,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,7,CT
+1368,M,59,B,"MDD, Single Episode,Severe Without Psychotic Features",W,S,C,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,7,0,0,3,21,EG
+1369,F,21,B,Depressive Disorder NOS,I,S,C,94,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,4,8,EG
+1370,F,18,W,"MDD, Recurrent, Unspecified",L,G,C,59,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,5,EG
+1371,F,65,W,"MDD, Recurrent, Unspecified",M,,C,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,5,
+1372,F,25,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,136,0,0,6,0,6,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,5,24,EG
+1373,M,48,W,"MDD, Recurrent, Unspecified",T,S,C,168,1,0,7,0,0,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,26,EG
+1374,M,53,W,"MDD, Single Episode,Severe Without Psychotic Features",I,S,C,34,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,4,EG
+1375,M,20,W,Depressive Disorder NOS,I,G,C,160,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,6,CT
+1376,F,44,W,"MDD, Single Episode, Severe With Psychotic Features",T,G,C,108,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,20,EG
+1377,F,22,L,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,119,0,0,4,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,4,20,EG
+1378,F,36,B,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,67,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,9,CT
+1379,M,50,W,"MDD, Recurrent, Unspecified",D,G,C,164,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,3,11,CT
+1380,F,41,L,"MDD, Single Episode,Severe Without Psychotic Features",D,,C,60,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,
+1381,F,22,O/U,"MDD, Single Episode,Severe Without Psychotic Features",L,,C,22,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,
+1382,F,36,W,Depressive Disorder NOS,A,,C,209,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,2,0,0,10,0,0,5,27,
+1383,F,20,W,"MDD, Recurrent, Unspecified",A,,C,123,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,7,
+1384,F,28,W,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,7,0,0,3,12,EG
+1385,M,20,W,Depressive Disorder NOS,L,G,C,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,6,CT
+1386,F,47,W,"MDD, Single Episode,Severe Without Psychotic Features",T,,C,111,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,4,0,0,5,3,0,0,0,0,0,0,0,0,4,0,6,25,
+1387,M,19,W,"MDD, Recurrent, Unspecified",T,S,C,203,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,16,0,0,0,0,0,0,9,0,0,0,0,0,4,30,EG
+1388,F,49,B,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,213,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,3,22,CT
+1389,M,34,W,"MDD, Recurrent, Unspecified",T,G,C,353,0,0,7,0,0,11,0,0,0,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,18,7,0,6,53,CT
+1390,F,24,L,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,41,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,4,EG
+1391,F,34,W,"MDD, Recurrent, Unspecified",T,S,C,165,0,0,7,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,4,19,EG
+1392,M,50,W,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,165,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,7,0,0,0,0,0,0,0,14,0,0,0,5,0,0,4,36,EG
+1393,F,47,L,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,72,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,6,EG
+1394,M,41,L,Depressive Disorder NOS,I,G,C,92,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,7,CT
+1395,M,20,B,"MDD, Single Episode, Severe With Psychotic Features",B,G,C,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,2,0,8,0,0,0,0,0,2,0,0,4,28,EG
+1396,M,60,B,"MDD, Single Episode, Severe With Psychotic Features",V,G,C,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,0,0,0,2,7,EG
+1397,F,21,W,"MDD, Single Episode,Severe Without Psychotic Features",A,G,C,166,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,CT
+1398,F,36,O/U,"MDD, Recurrent, Unspecified",I,G,C,107,0,0,0,0,0,0,0,0,12,0,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,30,TL
+1399,F,58,W,Depressive Disorder NOS,T,G,C,144,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,7,EG
+1400,M,42,L,"MDD, Recurrent, Unspecified",T,S,C,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,14,0,8,0,0,3,26,EG
+1401,F,75,W,"MDD, Single Episode,Severe Without Psychotic Features",F,S,C,274,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,15,0,0,0,0,0,3,33,EG
+1402,F,54,W,Depressive Disorder NOS,I,S,C,100,0,0,0,0,7,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,4,16,EG
+1403,M,32,W,Depressive Disorder NOS,I,G,C,65,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+1404,M,30,W,Depressive Disorder NOS,A,G,C,183,0,0,0,0,0,0,8,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,15,CT
+1405,M,33,W,Depressive Disorder NOS,B,S,C,57,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,EG
+1406,M,35,W,"MDD, Single Episode,Severe Without Psychotic Features",A,,C,508,0,0,18,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,4,39,
+1407,M,43,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,78,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,15,EG
+1408,F,56,L,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,212,0,0,0,0,0,2,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,24,EG
+1409,M,59,B,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,4,CT
+1410,M,18,B,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,81,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,2,5,CT
+1411,F,21,W,"MDD, Recurrent, Unspecified",A,S,C,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,EG
+1412,F,50,L,"MDD, Single Episode,Severe Without Psychotic Features",I,S,C,115,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,14,EG
+1413,F,25,B,"MDD, Single Episode, Severe With Psychotic Features",D,S,C,88,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,8,EG
+1414,F,43,W,"MDD, Recurrent, Unspecified",D,G,C,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,2,7,EG
+1415,M,54,W,"MDD, Recurrent, Unspecified",T,G,C,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,EG
+1416,F,19,L,"MDD, Single Episode, Severe With Psychotic Features",D,S,C,146,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,0,0,3,15,EG
+1417,F,26,L,"MDD, Single Episode, Moderate",L,S,C,68,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,7,EG
+1418,F,27,L,"MDD, Single Episode, Severe With Psychotic Features",I,G,C,568,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,2,40,EG
+1419,F,22,B,"MDD, Single Episode, Moderate",T,S,C,132,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,8,0,0,3,19,EG
+1420,M,23,L,Depressive Disorder NOS,D,S,C,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,6,EG
+1421,F,38,W,"MDD, Recurrent, Unspecified",I,S,C,59,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,5,EG
+1422,F,23,W,"MDD, Recurrent, Unspecified",L,G,C,154,1,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,8,0,0,4,24,EG
+1423,F,55,B,"MDD, Recurrent, Unspecified",D,G,C,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,6,0,1,4,0,0,4,23,EG
+1424,F,21,W,"MDD, Recurrent, Unspecified",I,S,C,95,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,3,9,EG
+1425,F,34,W,"MDD, Recurrent, Unspecified",G,G,C,116,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,4,20,TL
+1426,M,18,W,"MDD, Recurrent, Unspecified",I,G,C,100,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+1427,M,47,W,"MDD, Recurrent, Unspecified",I,G,C,46,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,CT
+1428,F,43,L,"MDD, Recurrent, Unspecified",A,G,C,154,0,0,0,0,7,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,4,23,CT
+1429,M,39,W,"MDD, Recurrent, Unspecified",D,S,C,199,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,16,EG
+1430,F,43,W,"MDD, Recurrent, Unspecified",A,S,C,68,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,6,EG
+1431,F,59,L,Depressive Disorder NOS,I,S,C,212,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3,10,EG
+1432,M,31,L,"MDD, Recurrent, Unspecified",I,G,C,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,14,0,7,0,0,3,30,EG
+1433,F,30,W,Depressive Disorder NOS,D,G,C,258,0,0,4,0,0,0,0,0,8,0,0,0,0,0,0,0,3,0,0,0,11,0,0,0,0,5,0,0,7,0,0,6,38,CT
+1434,F,22,L,"MDD, Single Episode, Severe With Psychotic Features",W,S,C,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,4,1,0,0,4,11,EG
+1435,F,65,W,"MDD, Single Episode,Severe Without Psychotic Features",D,S,C,279,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,11,0,0,3,34,EG
+1436,M,47,L,"MDD, Single Episode, Severe With Psychotic Features",T,S,C,93,0,0,0,0,0,0,0,0,0,0,4,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,11,EG
+1437,M,50,W,"MDD, Single Episode, Severe With Psychotic Features",L,G,C,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,0,0,0,0,2,12,EG
+1438,M,25,W,Depressive Disorder NOS,D,S,C,184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,2,8,EG
+1439,F,79,W,"MDD, Recurrent, Unspecified",M,G,C,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0,2,10,EG
+1440,M,27,W,"MDD, Single Episode,Severe Without Psychotic Features",W,G,C,302,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,11,0,10,0,0,5,48,EG
+1441,M,30,B,Depressive Disorder NOS,L,G,C,100,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,8,EG
+1442,F,25,L,Depressive Disorder NOS,W,G,C,194,0,0,0,0,0,0,8,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,9,0,0,0,0,0,3,0,0,4,37,EG
+1443,F,22,W,"MDD, Single Episode, Severe With Psychotic Features",D,S,C,65,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,7,EG
+1444,F,51,W,"MDD, Recurrent, Unspecified",T,G,C,57,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,CT
+1445,F,42,L,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,44,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,3,6,EG
+1446,M,22,W,Depressive Disorder NOS,L,G,C,52,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,6,EG
+1447,M,37,W,"MDD, Recurrent, Unspecified",A,G,C,263,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,11,0,0,3,34,CT
+1448,F,37,L,"MDD, Single Episode, Severe With Psychotic Features",D,,C,83,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,
+1449,F,23,W,Depressive Disorder NOS,T,S,C,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,EG
+1450,M,47,B,"MDD, Single Episode, Severe With Psychotic Features",W,G,C,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,2,15,EG
+1451,F,47,B,"MDD, Single Episode, Severe With Psychotic Features",L,S,C,51,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,4,EG
+1452,F,73,W,"MDD, Recurrent, Unspecified",V,G,C,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,5,3,15,CT
+1453,M,30,B,Depressive Disorder NOS,A,S,C,106,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,3,0,0,5,0,0,0,0,2,0,0,5,13,EG
+1454,M,20,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,383,0,0,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,32,EG
+1455,M,46,L,Depressive Disorder NOS,T,S,C,157,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,9,EG
+1456,F,49,L,Depressive Disorder NOS,D,G,C,115,0,0,5,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,5,20,CT
+1457,F,61,W,"MDD, Single Episode,Severe Without Psychotic Features",M,G,C,208,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0,3,19,EG
+1458,F,36,W,"MDD, Single Episode, Severe With Psychotic Features",I,S,C,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,2,9,EG
+1459,F,33,W,"MDD, Single Episode, Severe With Psychotic Features",D,G,C,143,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,12,CT
+1460,M,20,L,Depressive Disorder NOS,I,G,C,221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,21,0,0,7,0,0,3,31,CT
+1461,F,58,W,"MDD, Recurrent, Unspecified",W,G,C,113,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,CT
+1462,M,26,W,"MDD, Recurrent, Unspecified",W,G,C,357,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,4,0,0,0,0,0,15,0,0,0,0,0,0,0,0,3,35,CT
+1463,F,35,L,"MDD, Single Episode, Severe With Psychotic Features",I,S,C,114,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,8,0,5,4,0,0,5,21,EG
+1464,M,45,W,"MDD, Single Episode,Severe Without Psychotic Features",B,S,C,629,0,0,1,0,0,0,27,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,26,0,0,5,102,EG
+1465,M,48,L,"MDD, Recurrent, Severe With Psychotic Features",I,G,C,151,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,8,0,0,0,0,0,3,17,EG
+1466,M,35,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,462,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,15,0,0,6,0,0,4,30,CT
+1467,M,63,W,"MDD, Recurrent, Unspecified",M,G,C,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,2,7,CT
+1468,F,44,W,"MDD, Recurrent, Unspecified",I,G,C,177,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2,15,CT
+1469,M,63,W,Depressive Disorder NOS,A,G,C,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,4,0,0,0,0,2,0,0,0,0,0,3,18,EG
+1470,F,43,L,"MDD, Single Episode,Severe Without Psychotic Features",A,S,C,358,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,5,0,0,0,19,0,2,8,0,7,49,EG
+1471,F,33,W,"MDD, Recurrent, Unspecified",I,G,C,275,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,2,25,EG
+1472,M,48,W,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,3,6,0,3,15,EG
+1473,F,28,B,"MDD, Recurrent, Unspecified",L,S,C,98,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,EG
+1474,M,53,L,"MDD, Recurrent, Unspecified",G,G,C,124,1,0,0,0,0,1,0,0,3,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,1,0,0,6,15,TL
+1475,F,23,W,"MDD, Recurrent, Unspecified",L,G,C,91,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,3,20,CT
+1476,F,31,W,"MDD, Recurrent, Unspecified",T,G,C,135,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,12,CT
+1477,M,25,W,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,111,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,3,9,EG
+1478,F,48,W,"MDD, Recurrent, Unspecified",L,S,C,124,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,EG
+1479,M,57,W,Depressive Disorder NOS,A,S,C,292,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,20,EG
+1480,F,19,W,Depressive Disorder NOS,A,S,C,218,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,7,0,0,3,15,EG
+1481,F,59,W,"MDD, Single Episode,Severe Without Psychotic Features",I,G,C,136,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,EG
+1482,M,50,L,Depressive Disorder NOS,D,G,C,124,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,2,16,CT
+1483,M,21,W,Depressive Disorder NOS,A,G,C,113,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,9,EG
+1484,M,24,W,Depressive Disorder NOS,I,G,C,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EG
+1485,M,24,L,"MDD, Single Episode,Severe Without Psychotic Features",D,G,C,68,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,5,EG
+1486,M,43,O/U,Depressive Disorder NOS,W,G,C,94,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,3,10,EG
+1487,F,18,W,"MDD, Recurrent, Unspecified",T,S,C,52,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,EG
+1488,M,65,W,"MDD, Recurrent, Unspecified",L,G,C,286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,10,0,0,2,12,CT
+1489,M,30,L,"MDD, Single Episode,Severe Without Psychotic Features",L,G,C,63,0,0,0,0,0,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,4,12,CT
+1490,M,60,B,Depressive Disorder NOS,I,G,C,130,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,2,17,EG
+1491,M,28,L,"MDD, Recurrent, Unspecified",D,G,C,95,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,8,EG
+1492,M,47,L,"MDD, Single Episode,Severe Without Psychotic Features",T,G,C,185,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,3,0,0,0,0,0,0,2,8,0,0,5,37,CT
+1493,F,29,W,Depressive Disorder NOS,D,G,C,111,0,0,0,0,0,0,2,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,7,0,0,5,17,CT
+1494,M,41,W,"MDD, Single Episode,Severe Without Psychotic Features",B,G,C,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,EG
+1495,F,28,W,Depressive Disorder NOS,T,S,C,95,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,EG
+1496,F,41,B,"MDD, Single Episode, Severe With Psychotic Features",G,G,C,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,6,EG
+1497,F,51,L,"MDD, Single Episode, Severe With Psychotic Features",A,G,C,62,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,5,CT
+1498,F,62,W,Depressive Disorder NOS,F,G,C,114,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,2,0,0,3,26,EG
+1499,F,23,W,Depressive Disorder NOS,D,G,C,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,CT
+1500,M,29,W,Depressive Disorder NOS,L,G,C,125,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,3,17,EG
