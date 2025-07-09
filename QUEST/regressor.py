@@ -10,7 +10,6 @@ from sklearn.metrics import r2_score
 from matplotlib.lines import Line2D
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
-
 from matplotlib.pyplot import figure
 
 class QUESTExplainerRegressor:
@@ -87,9 +86,6 @@ class QUESTExplainerRegressor:
             explainer = shap.TreeExplainer(temp_model)
             phi = explainer.shap_values(x)
             # Handle multi-class output
-            n_classes = len(phi) if isinstance(phi, list) else 1
-            phi_shape = phi[0].shape if isinstance(phi, list) else phi.shape
-            phi_dist = np.zeros((n_samples,) + phi_shape)
             phi_dist[s] = phi[0] if isinstance(phi, list) else phi
         
         # Compute uncertainty metrics
@@ -118,7 +114,7 @@ class QUESTExplainerRegressor:
         stability = np.mean(np.sign(phi_dist) == mean_sign[np.newaxis, :], axis=0)
         return stability    
     
-    def plot_uncertainty_bars(self, result, feature_names, title="QUEST Values with Epistemic Uncertainty"):
+    def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty"):
         """
         Plot SHAP values with uncertainty bars and comprehensive legend
         """
@@ -141,7 +137,7 @@ class QUESTExplainerRegressor:
             color=colors,
             ecolor='darkred'
         )
-        
+
         plt.yticks(y_pos, [feature_names[i] for i in order])
         plt.xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
         plt.title(title, fontsize=16, pad=20)
@@ -228,7 +224,7 @@ class QUESTExplainerRegressor:
         plt.grid(alpha=0.2)
         plt.tight_layout()
         plt.show()
-    
+
     
     def plot_uncertainty_comparison(self, result, feature_names, title="Uncertainty Metric Comparison"):
         """
@@ -315,7 +311,5 @@ class QUESTExplainerRegressor:
 
         # Add legend in upper right
         axes[2].legend(handles=legend_lines, loc='upper right', fontsize=6, frameon=True, framealpha=0.9)
-
-
         plt.show()
 
