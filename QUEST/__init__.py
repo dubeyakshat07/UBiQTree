@@ -1,1 +1,2 @@
 from .regressor import QUESTExplainerRegressor
+from .classification import QUESTExplainerClassification

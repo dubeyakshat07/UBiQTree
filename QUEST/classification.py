@@ -11,7 +11,7 @@ from matplotlib.lines import Line2D
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
 
-class QUESTExplainerClassifie:
+class QUESTExplainerClassification:
     def __init__(self, model, X_train, y_train, beta=5.0, random_state=None):
         """
         Initialize QUEST explainer for classification models
