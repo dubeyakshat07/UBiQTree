@@ -1,1 +1,1 @@
-from .module import QUESTExplainerRegressor
+from .regressor import QUESTExplainerRegressor
