@@ -11,10 +11,10 @@ from matplotlib.lines import Line2D
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
 
-class QUESTExplainerClassification:
+class ExplainerClassification:
     def __init__(self, model, X_train, y_train, beta=5.0, random_state=None):
         """
-        Initialize QUEST explainer for classification models
+        Initialize explainer for classification models
         
         Args:
             model: Trained tree ensemble classifier (RandomForest, XGBoost, etc.)
@@ -54,7 +54,7 @@ class QUESTExplainerClassification:
     
     def explain(self, x, n_samples=500, alpha=1.0, class_idx=None):
         """
-        Compute QUEST values with uncertainty quantification for classification
+        Compute values with uncertainty quantification for classification
         
         Args:
             x: Input instance to explain
@@ -128,7 +128,7 @@ class QUESTExplainerClassification:
         stability = np.mean(np.sign(phi_dist) == mean_sign[np.newaxis, :], axis=0)
         return stability    
     
-    def plot_uncertainty_bars(self, result, feature_names, title="QUEST Values with Epistemic Uncertainty", class_name=None):
+    def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty", class_name=None):
         """
         Plot SHAP values with uncertainty bars
         

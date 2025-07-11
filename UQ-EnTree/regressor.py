@@ -12,10 +12,10 @@ import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
 from matplotlib.pyplot import figure
 
-class QUESTExplainerRegressor:
+class ExplainerRegressor:
     def __init__(self, model, X_train, y_train, beta=5.0, random_state=None):
         """
-        Initialize QUEST explainer
+        Initialize explainer
         
         Args:
             model: Trained tree ensemble model (RandomForest, XGBoost, etc.)
@@ -54,7 +54,7 @@ class QUESTExplainerRegressor:
     
     def explain(self, x, n_samples=500, alpha=1.0):
         """
-        Compute QUEST values with uncertainty quantification
+        Compute values with uncertainty quantification
         
         Args:
             x: Input instance to explain
