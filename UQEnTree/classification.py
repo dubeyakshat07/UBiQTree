@@ -2,28 +2,30 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import gaussian_kde, entropy
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.base import clone
 import shap
 from tqdm import tqdm
-from sklearn.metrics import r2_score
+from sklearn.metrics import accuracy_score
 from matplotlib.lines import Line2D
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
-from matplotlib.pyplot import figure
 
-class ExplainerRegressor:
+class ExplainerClassification:
     def __init__(self, model, X_train, y_train, beta=5.0, random_state=None):
         """
-        Initialize explainer
+        Initialize explainer for classification models
         
         Args:
-            model: Trained tree ensemble model (RandomForest, XGBoost, etc.)
+            model: Trained tree ensemble classifier (RandomForest, XGBoost, etc.)
             X_train: Training features
             y_train: Training labels
             beta: Temperature parameter for softmax weighting
             random_state: Random seed
         """
+        if not hasattr(model, 'classes_'):
+            raise ValueError("Model must be a classifier with 'classes_' attribute")
+            
         self.model = model
         self.X_train = X_train
         self.y_train = y_train
@@ -31,6 +33,7 @@ class ExplainerRegressor:
         self.random_state = random_state
         self.weights_ = self._compute_tree_weights()
         self.full_explainer = shap.TreeExplainer(model)
+        self.classes_ = model.classes_
         
     def _compute_tree_weights(self):
         """Compute tree weights based on performance"""
@@ -38,10 +41,7 @@ class ExplainerRegressor:
             scores = []
             for tree in self.model.estimators_:
                 pred = tree.predict(self.X_train)
-                if len(pred.shape) > 1 and pred.shape[1] > 1:  # Classification
-                    score = accuracy_score(self.y_train, np.argmax(pred, axis=1))
-                else:  # Regression
-                    score = r2_score(self.y_train, pred)
+                score = accuracy_score(self.y_train, pred)
                 scores.append(score)
             
             # Softmax weighting with temperature control
@@ -52,22 +52,30 @@ class ExplainerRegressor:
             # Single tree model
             return np.array([1.0])
     
-    def explain(self, x, n_samples=500, alpha=1.0):
+    def explain(self, x, n_samples=500, alpha=1.0, class_idx=None):
         """
-        Compute values with uncertainty quantification
+        Compute values with uncertainty quantification for classification
         
         Args:
             x: Input instance to explain
-ç            alpha: Dirichlet concentration parameter
+            n_samples: Number of hypothesis samples
+            alpha: Dirichlet concentration parameter
+            class_idx: Which class to explain (default: first class)
             
         Returns:
             Dictionary with SHAP distributions and uncertainty metrics
         """
         np.random.seed(self.random_state)
-        n_trees = len(self.model.estimators_)
+        
+        # Determine number of trees and features
+        n_trees = len(self.model.estimators_) if hasattr(self.model, 'estimators_') else 1
         n_features = x.shape[1]
         phi_dist = np.zeros((n_samples, n_features))
         
+        # Default to first class if not specified
+        if class_idx is None:
+            class_idx = 0
+
         for s in tqdm(range(n_samples), desc="Sampling hypothesis space"):
             # Dirichlet-weighted tree sampling
             dirichlet_weights = np.random.dirichlet(alpha * self.weights_)
@@ -78,15 +86,21 @@ class ExplainerRegressor:
             )
             
             # Create sub-ensemble with sampled trees
-            sub_ensemble = [self.model.estimators_[i] for i in tree_indices]
-            temp_model = clone(self.model)
-            temp_model.estimators_ = sub_ensemble
-            
-            # Compute SHAP values for sub-ensemble
+            if hasattr(self.model, 'estimators_'):
+                sub_ensemble = [self.model.estimators_[i] for i in tree_indices]
+                temp_model = clone(self.model)
+                temp_model.estimators_ = sub_ensemble
+            else:
+                temp_model = self.model  # Single tree model
+                
+            # Compute SHAP values using __call__ for consistent output format
             explainer = shap.TreeExplainer(temp_model)
-            phi = explainer.shap_values(x)
-            # Handle multi-class output
-            phi_dist[s] = phi[0] if isinstance(phi, list) else phi
+            shap_output = explainer(x)  # Returns Explanation object
+            
+            # Extract SHAP values - shape (1, n_features, n_classes)
+            shap_values = shap_output.values
+            phi = shap_values[0, :, class_idx]  # Get values for specific class
+            phi_dist[s] = phi
         
         # Compute uncertainty metrics
         results = {
@@ -114,11 +128,17 @@ class ExplainerRegressor:
         stability = np.mean(np.sign(phi_dist) == mean_sign[np.newaxis, :], axis=0)
         return stability    
     
-    def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty"):
+    def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty", class_name=None):
         """
-        Plot SHAP values with uncertainty bars and comprehensive legend
+        Plot SHAP values with uncertainty bars
+        
+        Args:
+            class_name: Name of the class being explained
         """
         plt.figure(figsize=(12, 7))
+        if class_name:
+            title = f"{title} - Class: {class_name}"
+            
         order = np.argsort(result['mean'])
         y_pos = np.arange(len(feature_names))
         
@@ -128,7 +148,7 @@ class ExplainerRegressor:
         colors = plt.cm.viridis(norm(abs_mean[order]))
         
         # Create plot with error bars
-        bars = plt.barh(
+        plt.barh(
             y_pos, 
             result['mean'][order],
             xerr=2*result['std'][order],
@@ -137,7 +157,7 @@ class ExplainerRegressor:
             color=colors,
             ecolor='darkred'
         )
-
+        
         plt.yticks(y_pos, [feature_names[i] for i in order])
         plt.xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
         plt.title(title, fontsize=16, pad=20)
@@ -145,11 +165,12 @@ class ExplainerRegressor:
         
         # Create comprehensive legend
         legend_elements = [
-            mpatches.Patch(color='darkred', label='2σ Uncertainty Interval'),
-            Line2D([0], [0], marker='o', color='w', 
-                   markerfacecolor='lightgray', markersize=10, label='Feature Importance\n(Color intensity → Magnitude)'),
-            # Line2D([0], [0], marker='', color='w', 
-            #        label=f"Sign Stability: Probability that\nfeature's impact direction is consistent"),
+            mpatches.Patch(color='darkred', label='2σ Uncertainty Interval')
+            #  Line2D([0], [0], 
+                    #marker='o', color='w', 
+            #        markerfacecolor='lightgray', markersize=10, 
+                #    label='Feature Importance\n(Color intensity → Magnitude)'
+                
         ]
         
         plt.legend(
@@ -168,12 +189,18 @@ class ExplainerRegressor:
         plt.tight_layout()
         plt.show()
 
-
-    def plot_uncertainty_distribution(self, result, feature_names, feature_idx, title="SHAP Value Distribution"):
+    def plot_uncertainty_distribution(self, result, feature_names, feature_idx, 
+                                      title="SHAP Value Distribution", class_name=None):
         """
         Plot kernel density estimate with enhanced annotations
+        
+        Args:
+            class_name: Name of the class being explained
         """
         plt.figure(figsize=(12, 7))
+        if class_name:
+            title = f"{title} - Class: {class_name}"
+            
         samples = result['samples'][:, feature_idx]
         
         # Kernel density estimation
@@ -224,12 +251,17 @@ class ExplainerRegressor:
         plt.grid(alpha=0.2)
         plt.tight_layout()
         plt.show()
-
     
-    def plot_uncertainty_comparison(self, result, feature_names, title="Uncertainty Metric Comparison"):
+    def plot_uncertainty_comparison(self, result, feature_names, title = None, class_name=None):
         """
         Enhanced comparison plot with unified color scheme
+        
+        Args:
+            class_name: Name of the class being explained
         """
+        if class_name:
+            title = f"Class: {class_name}"
+            
         fig, axes = plt.subplots(3, 1, figsize=(15, 15), sharey=True)
         plt.suptitle(title, fontsize=12, y=0.95)
         
@@ -281,8 +313,7 @@ class ExplainerRegressor:
         axes[1].grid(axis='x', alpha=0.2)
         
         # Sign Stability plot
-  
-        bars = axes[2].barh(
+        axes[2].barh(
             sorted_features,
             result['sign_stability'][order],
             color=colors,
@@ -290,17 +321,15 @@ class ExplainerRegressor:
             edgecolor='gray',
             linewidth=0.5
         )
-
-# Title and axis
         axes[2].set_title('Sign Stability (Direction Consistency)', fontsize=12, pad=8)
         axes[2].set_xlabel('Probability of Consistent Direction', fontsize=8)
         axes[2].set_xlim(0, 1)
         axes[2].grid(axis='x', alpha=0.2)
 
         # Vertical dashed lines
-        high_conf = axes[2].axvline(0.9, color='green', linestyle='--', linewidth=1, alpha=0.8)
-        med_conf = axes[2].axvline(0.7, color='orange', linestyle='--', linewidth=1, alpha=0.8)
-        low_conf = axes[2].axvline(0.4, color='red', linestyle='--', linewidth=1, alpha=0.8)
+        axes[2].axvline(0.9, color='green', linestyle='--', linewidth=1, alpha=0.8)
+        axes[2].axvline(0.7, color='orange', linestyle='--', linewidth=1, alpha=0.8)
+        axes[2].axvline(0.4, color='red', linestyle='--', linewidth=1, alpha=0.8)
 
         # Create proxy legend handles
         legend_lines = [
@@ -308,8 +337,7 @@ class ExplainerRegressor:
             mlines.Line2D([], [], color='orange', linestyle='--', label='Medium Confidence (≥ 0.7)'),
             mlines.Line2D([], [], color='red', linestyle='--', label='Low Confidence (< 0.7)')
         ]
-
-        # Add legend in upper right
         axes[2].legend(handles=legend_lines, loc='upper right', fontsize=6, frameon=True, framealpha=0.9)
-        plt.show()
 
+        plt.tight_layout()
+        plt.show()
