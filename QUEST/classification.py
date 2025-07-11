@@ -165,10 +165,12 @@ class QUESTExplainerClassification:
         
         # Create comprehensive legend
         legend_elements = [
-            mpatches.Patch(color='darkred', label='2σ Uncertainty Interval'),
-            Line2D([0], [0], marker='o', color='w', 
-                   markerfacecolor='lightgray', markersize=10, 
-                   label='Feature Importance\n(Color intensity → Magnitude)'),
+            mpatches.Patch(color='darkred', label='2σ Uncertainty Interval')
+            #  Line2D([0], [0], 
+                    #marker='o', color='w', 
+            #        markerfacecolor='lightgray', markersize=10, 
+                #    label='Feature Importance\n(Color intensity → Magnitude)'
+                
         ]
         
         plt.legend(
