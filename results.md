@@ -56,4 +56,70 @@ Together, these visualizations offer a **multifaceted view of epistemic uncertai
 By explicitly quantifying epistemic uncertainty along three axes—**magnitude variability**, **distributional dispersion**, and **directional consistency**—our approach enhances trust in model explanations and allows domain experts to discern **which features can be trusted** in downstream decisions and which should be treated with caution.
 
 ---
+**SHAP value distributions and epistemic uncertainty** for features across different classes, and sometimes they look very similar between classes but differ for other datasets,**why that happens** and **what it means**?
+
+---
+
+## Why might SHAP distributions and epistemic uncertainty look the same across classes for some datasets but different for others?
+
+### 1. **Model’s Learned Feature Contributions and Class Separation**
+
+* **Similar SHAP distributions across classes** often happen when:
+
+  * The model uses **similar sets of features** in roughly the **same way for multiple classes**.
+  * The **decision boundaries** for different classes rely on overlapping feature effects.
+  * The classes are **not very well separated** by the model on those features, leading to overlapping SHAP explanations.
+
+* **Different SHAP distributions across classes** happen when:
+
+  * The model has learned **distinct feature patterns or importance for different classes**.
+  * Features influence each class’s prediction differently, e.g., one feature pushes predictions positively for one class and negatively for another.
+  * Classes are well separated in feature space and the model’s behavior changes significantly across classes.
+
+---
+
+### 2. **Epistemic Uncertainty Reflects Model Confidence in Feature Effects**
+
+* When **epistemic uncertainty is similar across classes**, it may indicate that:
+
+  * The model’s confidence about the contribution of features is **consistent regardless of class**.
+  * The training data for different classes has **similar coverage and distribution**, so the ensemble trees agree similarly on feature effects.
+  * The uncertainty quantification method captures uncertainty in a way that's insensitive to class in that dataset.
+
+* When **epistemic uncertainty differs between classes**, it suggests:
+
+  * The model is more uncertain about how some features affect predictions for certain classes.
+  * Possibly **less data or more ambiguous patterns** for some classes, causing disagreement among trees or more variable SHAP values.
+  * The model’s explanation varies more strongly across classes due to inherent complexity or noisy signals.
+
+---
+
+### 3. **Dataset Properties and Class Complexity**
+
+* **Dataset balance and size**: If some classes have fewer or noisier samples, explanations for those classes may have higher uncertainty.
+* **Feature relevance per class**: Some datasets have features strongly tied to specific classes (e.g., medical diagnoses), while others use features more uniformly.
+* **Feature correlations** and interactions can affect SHAP distributions differently per class.
+
+---
+
+## What’s the **takeaway**?
+
+| Observation                                  | Interpretation / Action                                                                             |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| SHAP distributions similar across classes    | Model uses features similarly across classes; possibly classes overlap or share decision logic.     |
+| SHAP distributions differ across classes     | Model captures distinct patterns per class; explanations are class-specific.                        |
+| Epistemic uncertainty similar across classes | Model’s confidence in feature importance is uniform; may suggest stable feature effects.            |
+| Epistemic uncertainty varies by class        | Some classes have less certain explanations; could indicate noisy data or harder-to-learn patterns. |
+| High uncertainty & overlapping SHAP values   | Look for model weaknesses, potential data quality issues, or class ambiguity.                       |
+
+---
+
+### Practical implications:
+
+* If **explanations are similar across classes but model accuracy differs**, you may need more class-specific features or better data representation.
+* If **epistemic uncertainty is high for some classes**, focus efforts on collecting more data or improving model robustness for those classes.
+* Understanding these patterns can guide **model debugging, dataset improvement, and trust assessment** in critical applications.
+
+---
+
 

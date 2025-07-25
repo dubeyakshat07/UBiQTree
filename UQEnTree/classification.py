@@ -128,68 +128,176 @@ class ExplainerClassification:
         stability = np.mean(np.sign(phi_dist) == mean_sign[np.newaxis, :], axis=0)
         return stability    
     
-    def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty", class_name=None):
-        """
-        Plot SHAP values with uncertainty bars
+    # def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty", class_name=None):
+        # """
+        # Plot SHAP values with uncertainty bars
         
-        Args:
-            class_name: Name of the class being explained
+        # Args:
+        #     class_name: Name of the class being explained
+        # """
+        # plt.figure(figsize=(12, 7))
+        # if class_name:
+        #     title = f"{title} - Class: {class_name}"
+            
+        # order = np.argsort(result['mean'])
+        # y_pos = np.arange(len(feature_names))
+        
+        # # Calculate absolute SHAP for color coding
+        # abs_mean = np.abs(result['mean'])
+        # norm = plt.Normalize(abs_mean.min(), abs_mean.max())
+        # colors = plt.cm.viridis(norm(abs_mean[order]))
+        
+        # # Create plot with error bars
+        # plt.barh(
+        #     y_pos, 
+        #     result['mean'][order],
+        #     xerr=2*result['std'][order],
+        #     capsize=5,
+        #     alpha=0.85,
+        #     color=colors,
+        #     ecolor='darkred'
+        # )
+        
+        # plt.yticks(y_pos, [feature_names[i] for i in order])
+        # plt.xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
+        # plt.title(title, fontsize=16, pad=20)
+        # plt.grid(axis='x', linestyle='--', alpha=0.4)
+        
+        # # Create comprehensive legend
+        # legend_elements = [
+        #     mpatches.Patch(color='darkred', label='2σ Uncertainty Interval')
+        #     #  Line2D([0], [0], 
+        #             #marker='o', color='w', 
+        #     #        markerfacecolor='lightgray', markersize=10, 
+        #         #    label='Feature Importance\n(Color intensity → Magnitude)'
+                
+        # ]
+        
+        # plt.legend(
+        #     handles=legend_elements, 
+        #     loc='upper left',
+        #     frameon=True,
+        #     framealpha=0.9,
+        #     fontsize=10
+        # )
+        
+        # # Add colorbar for SHAP magnitude
+        # sm = plt.cm.ScalarMappable(cmap=plt.cm.viridis, norm=norm)
+        # sm.set_array([])
+        # cbar = plt.colorbar(sm, ax=plt.gca(), pad=0.01)
+        # cbar.set_label('Absolute SHAP Value Magnitude', fontsize=8)
+        # plt.tight_layout()
+        # plt.show()
+    def plot_uncertainty_bars(self, result, feature_names, title="SHAP with Epistemic Uncertainty", class_name=None):
         """
-        plt.figure(figsize=(12, 7))
+        Enhanced SHAP visualization with:
+        - Horizontal bars for mean
+        - 95% CI as dashed lines
+        - Violin plots highlighting peaks
+        - Optional rug scatter
+
+        Args:
+            result: dict with keys:
+                - 'mean': array of mean SHAP values
+                - 'std': array of std deviations
+                - 'samples': 2D array (num_samples x num_features)
+            feature_names: list of feature names
+            title: plot title
+            class_name: optional class name label
+        """
+        fig, ax = plt.subplots(figsize=(14, 10))
+        
         if class_name:
             title = f"{title} - Class: {class_name}"
             
-        order = np.argsort(result['mean'])
+        mean = result['mean']
+        std = result['std']
+        samples = result['samples']  # shape: (num_samples, num_features)
+
+        order = np.argsort(mean)
         y_pos = np.arange(len(feature_names))
-        
-        # Calculate absolute SHAP for color coding
-        abs_mean = np.abs(result['mean'])
+
+        # Normalize for color map
+        abs_mean = np.abs(mean)
         norm = plt.Normalize(abs_mean.min(), abs_mean.max())
         colors = plt.cm.viridis(norm(abs_mean[order]))
-        
-        # Create plot with error bars
-        plt.barh(
-            y_pos, 
-            result['mean'][order],
-            xerr=2*result['std'][order],
-            capsize=5,
+
+        # Plot main SHAP bars
+        bars = ax.barh(
+            y_pos,
+            mean[order],
             alpha=0.85,
             color=colors,
-            ecolor='darkred'
+            edgecolor='k',
+            linewidth=1,
+            zorder=2
         )
-        
-        plt.yticks(y_pos, [feature_names[i] for i in order])
-        plt.xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
-        plt.title(title, fontsize=16, pad=20)
-        plt.grid(axis='x', linestyle='--', alpha=0.4)
-        
-        # Create comprehensive legend
+
+        # Violin plots with KDE
+        for i, idx in enumerate(order):
+            data = samples[:, idx]
+            kde = gaussian_kde(data)
+            x_vals = np.linspace(min(data), max(data), 200)
+            kde_vals = kde(x_vals)
+            kde_vals = kde_vals / kde_vals.max() * 0.4  # scale width
+
+            ax.fill_betweenx(
+                y=i + kde_vals,
+                x1=x_vals,
+                x2=0,
+                color='dodgerblue',
+                alpha=0.3,
+                linewidth=0,
+                zorder=1
+            )
+            ax.fill_betweenx(
+                y=i - kde_vals,
+                x1=x_vals,
+                x2=0,
+                color='dodgerblue',
+                alpha=0.3,
+                linewidth=0,
+                zorder=1
+            )
+
+            # Mean line in violin
+            ax.plot([mean[idx]] * 2, [i - 0.4, i + 0.4], color='black', lw=1.2, zorder=3)
+
+            # Rug scatter
+            ax.scatter(data, np.random.normal(i, 0.05, size=len(data)), color='gray', s=6, alpha=0.1, zorder=0)
+
+            # Dashed lines for ±1.96σ
+            ci_low = mean[idx] - 1.96 * std[idx]
+            ci_high = mean[idx] + 1.96 * std[idx]
+            ax.plot([ci_low, ci_high], [i, i], color='black', linestyle='--', linewidth=1.0, alpha=0.6, zorder=2)
+
+        # Set y-axis labels
+        ax.set_yticks(y_pos)
+        ax.set_yticklabels([feature_names[i] for i in order])
+        ax.set_xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
+        ax.set_title(title, fontsize=12, pad=20)
+        ax.grid(axis='x', linestyle='--', alpha=0.4)
+        ax.axvline(x=0, linestyle='--', color='black', linewidth=0.8, alpha=0.6)
+
+        # Legend
         legend_elements = [
-            mpatches.Patch(color='darkred', label='2σ Uncertainty Interval')
-            #  Line2D([0], [0], 
-                    #marker='o', color='w', 
-            #        markerfacecolor='lightgray', markersize=10, 
-                #    label='Feature Importance\n(Color intensity → Magnitude)'
-                
+            mpatches.Patch(color='dodgerblue', alpha=0.3, label='SHAP Distribution'),
+            Line2D([0], [0], color='black', linestyle='--', lw=1.5, label='95% CI (±1.96σ)')
+            # mpatches.Patch(color='black', label='95% CI (±1.96σ)', linestyle='--')
         ]
-        
-        plt.legend(
-            handles=legend_elements, 
-            loc='upper left',
-            frameon=True,
-            framealpha=0.9,
-            fontsize=10
-        )
-        
-        # Add colorbar for SHAP magnitude
+        ax.legend(handles=legend_elements, loc='upper left', fontsize=12)
+
+        # Colorbar for SHAP magnitude
         sm = plt.cm.ScalarMappable(cmap=plt.cm.viridis, norm=norm)
         sm.set_array([])
-        cbar = plt.colorbar(sm, ax=plt.gca(), pad=0.01)
-        cbar.set_label('Absolute SHAP Value Magnitude', fontsize=8)
+        cbar = plt.colorbar(sm, ax=ax, pad=0.01)
+        cbar.set_label('Absolute SHAP Value Magnitude', fontsize=12)
+
         plt.tight_layout()
         plt.show()
 
-    def plot_uncertainty_distribution(self, result, feature_names, feature_idx, 
+
+    def plot_uncertainty_distribution(self, result, feature_names, feature_idx, ylim, xlim ,
                                       title="SHAP Value Distribution", class_name=None):
         """
         Plot kernel density estimate with enhanced annotations
@@ -239,15 +347,17 @@ class ExplainerClassification:
             0.01, 0.82, 
             f"{stability_text}\n(Sign Stability = {sign_stab:.1%})",
             transform=plt.gca().transAxes,
-            fontsize=11,
+            fontsize=12,
             color='green' if sign_stab > 0.9 else 'red' if sign_stab < 0.7 else 'orange',
             bbox=dict(facecolor='white', alpha=0.8, edgecolor='gray')
         )
         
+        plt.ylim(ylim)
+        plt.xlim(xlim)
         plt.xlabel(f'SHAP Value for {feature_names[feature_idx]}', fontsize=12)
         plt.ylabel('Probability Density', fontsize=12)
-        plt.title(f"{title}\n{feature_names[feature_idx]}", fontsize=15, pad=15)
-        plt.legend(loc='upper right', fontsize=8)
+        plt.title(f"{title}\n{feature_names[feature_idx]}", fontsize=12, pad=15)
+        plt.legend(loc='upper right', fontsize=12)
         plt.grid(alpha=0.2)
         plt.tight_layout()
         plt.show()
@@ -282,13 +392,13 @@ class ExplainerClassification:
             linewidth=0.5
         )
         axes[0].set_title('Standard Deviation of SHAP Values', fontsize=12, pad=8)
-        axes[0].set_xlabel('Magnitude of Uncertainty', fontsize=8)
+        axes[0].set_xlabel('Magnitude of Uncertainty', fontsize=12)
         axes[0].axvline(np.mean(result['std']), color='red', linestyle='--', alpha=0.7)
         axes[0].text(
             np.mean(result['std']) + 0.01, len(feature_names)*0.8, 
             f'Mean: {np.mean(result["std"]):.3f}',
             color='red',
-            fontsize=10
+            fontsize=12
         )
         axes[0].grid(axis='x', alpha=0.2)
         
@@ -302,13 +412,13 @@ class ExplainerClassification:
             linewidth=0.5
         )
         axes[1].set_title('Explanation Entropy (Information Uncertainty)', fontsize=12, pad=8)
-        axes[1].set_xlabel('Entropy Value', fontsize=8)
+        axes[1].set_xlabel('Entropy Value', fontsize=12)
         axes[1].axvline(np.mean(result['entropy']), color='red', linestyle='--', alpha=0.7)
         axes[1].text(
             np.mean(result['entropy']) + 0.01, len(feature_names)*0.8, 
             f'Mean: {np.mean(result["entropy"]):.3f}',
             color='red',
-            fontsize=10
+            fontsize=12
         )
         axes[1].grid(axis='x', alpha=0.2)
         
@@ -322,7 +432,7 @@ class ExplainerClassification:
             linewidth=0.5
         )
         axes[2].set_title('Sign Stability (Direction Consistency)', fontsize=12, pad=8)
-        axes[2].set_xlabel('Probability of Consistent Direction', fontsize=8)
+        axes[2].set_xlabel('Probability of Consistent Direction', fontsize=12)
         axes[2].set_xlim(0, 1)
         axes[2].grid(axis='x', alpha=0.2)
 
@@ -337,7 +447,7 @@ class ExplainerClassification:
             mlines.Line2D([], [], color='orange', linestyle='--', label='Medium Confidence (≥ 0.7)'),
             mlines.Line2D([], [], color='red', linestyle='--', label='Low Confidence (< 0.7)')
         ]
-        axes[2].legend(handles=legend_lines, loc='upper right', fontsize=6, frameon=True, framealpha=0.9)
+        axes[2].legend(handles=legend_lines, loc='upper right', fontsize=12, frameon=True, framealpha=0.9)
 
         plt.tight_layout()
         plt.show()
