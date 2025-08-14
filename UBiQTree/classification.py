@@ -128,66 +128,6 @@ class ExplainerClassification:
         stability = np.mean(np.sign(phi_dist) == mean_sign[np.newaxis, :], axis=0)
         return stability    
     
-    # def plot_uncertainty_bars(self, result, feature_names, title="Values with Epistemic Uncertainty", class_name=None):
-        # """
-        # Plot SHAP values with uncertainty bars
-        
-        # Args:
-        #     class_name: Name of the class being explained
-        # """
-        # plt.figure(figsize=(12, 7))
-        # if class_name:
-        #     title = f"{title} - Class: {class_name}"
-            
-        # order = np.argsort(result['mean'])
-        # y_pos = np.arange(len(feature_names))
-        
-        # # Calculate absolute SHAP for color coding
-        # abs_mean = np.abs(result['mean'])
-        # norm = plt.Normalize(abs_mean.min(), abs_mean.max())
-        # colors = plt.cm.viridis(norm(abs_mean[order]))
-        
-        # # Create plot with error bars
-        # plt.barh(
-        #     y_pos, 
-        #     result['mean'][order],
-        #     xerr=2*result['std'][order],
-        #     capsize=5,
-        #     alpha=0.85,
-        #     color=colors,
-        #     ecolor='darkred'
-        # )
-        
-        # plt.yticks(y_pos, [feature_names[i] for i in order])
-        # plt.xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
-        # plt.title(title, fontsize=16, pad=20)
-        # plt.grid(axis='x', linestyle='--', alpha=0.4)
-        
-        # # Create comprehensive legend
-        # legend_elements = [
-        #     mpatches.Patch(color='darkred', label='2σ Uncertainty Interval')
-        #     #  Line2D([0], [0], 
-        #             #marker='o', color='w', 
-        #     #        markerfacecolor='lightgray', markersize=10, 
-        #         #    label='Feature Importance\n(Color intensity → Magnitude)'
-                
-        # ]
-        
-        # plt.legend(
-        #     handles=legend_elements, 
-        #     loc='upper left',
-        #     frameon=True,
-        #     framealpha=0.9,
-        #     fontsize=10
-        # )
-        
-        # # Add colorbar for SHAP magnitude
-        # sm = plt.cm.ScalarMappable(cmap=plt.cm.viridis, norm=norm)
-        # sm.set_array([])
-        # cbar = plt.colorbar(sm, ax=plt.gca(), pad=0.01)
-        # cbar.set_label('Absolute SHAP Value Magnitude', fontsize=8)
-        # plt.tight_layout()
-        # plt.show()
     def plot_uncertainty_bars(self, result, feature_names, title="SHAP with Epistemic Uncertainty", class_name=None):
         """
         Enhanced SHAP visualization with:
@@ -274,8 +214,8 @@ class ExplainerClassification:
         # Set y-axis labels
         ax.set_yticks(y_pos)
         ax.set_yticklabels([feature_names[i] for i in order])
-        ax.set_xlabel('SHAP Value (Impact on Prediction)', fontsize=12)
-        ax.set_title(title, fontsize=12, pad=20)
+        ax.set_xlabel('SHAP Value (Impact on Prediction)', fontsize=16)
+        ax.set_title(title, fontsize=16, pad=20)
         ax.grid(axis='x', linestyle='--', alpha=0.4)
         ax.axvline(x=0, linestyle='--', color='black', linewidth=0.8, alpha=0.6)
 
@@ -285,15 +225,17 @@ class ExplainerClassification:
             Line2D([0], [0], color='black', linestyle='--', lw=1.5, label='95% CI (±1.96σ)')
             # mpatches.Patch(color='black', label='95% CI (±1.96σ)', linestyle='--')
         ]
-        ax.legend(handles=legend_elements, loc='upper left', fontsize=12)
+        ax.legend(handles=legend_elements, loc='upper left', fontsize=16)
 
         # Colorbar for SHAP magnitude
         sm = plt.cm.ScalarMappable(cmap=plt.cm.viridis, norm=norm)
         sm.set_array([])
         cbar = plt.colorbar(sm, ax=ax, pad=0.01)
-        cbar.set_label('Absolute SHAP Value Magnitude', fontsize=12)
+        cbar.set_label('Absolute SHAP Value Magnitude', fontsize=16)
 
         plt.tight_layout()
+        shap_class_name = "shap"+class_name+".pdf"
+        plt.savefig(shap_class_name, format = "pdf")
         plt.show()
 
 
@@ -336,7 +278,7 @@ class ExplainerClassification:
             0.01, 0.92, 
             f"Epistemic Uncertainty: High\n(Std = {std_val:.3f})" if std_val > 0.15 else f"Epistemic Uncertainty: Low\n(Std = {std_val:.3f})",
             transform=plt.gca().transAxes,
-            fontsize=12,
+            fontsize=16,
             bbox=dict(facecolor='white', alpha=0.8, edgecolor='gray')
         )
         
@@ -347,19 +289,21 @@ class ExplainerClassification:
             0.01, 0.82, 
             f"{stability_text}\n(Sign Stability = {sign_stab:.1%})",
             transform=plt.gca().transAxes,
-            fontsize=12,
+            fontsize=16,
             color='green' if sign_stab > 0.9 else 'red' if sign_stab < 0.7 else 'orange',
             bbox=dict(facecolor='white', alpha=0.8, edgecolor='gray')
         )
         
         plt.ylim(ylim)
         plt.xlim(xlim)
-        plt.xlabel(f'SHAP Value for {feature_names[feature_idx]}', fontsize=12)
-        plt.ylabel('Probability Density', fontsize=12)
-        plt.title(f"{title}\n{feature_names[feature_idx]}", fontsize=12, pad=15)
-        plt.legend(loc='upper right', fontsize=12)
+        plt.xlabel(f'SHAP Value for {feature_names[feature_idx]}', fontsize=16)
+        plt.ylabel('Probability Density', fontsize=16)
+        plt.title(f"{title}\n{feature_names[feature_idx]}", fontsize=16, pad=15)
+        plt.legend(loc='upper right', fontsize=16)
         plt.grid(alpha=0.2)
         plt.tight_layout()
+        shap_class_name = "shap_distribution"+str(feature_names[feature_idx])+str(class_name)+".pdf"
+        plt.savefig(shap_class_name, format = "pdf")
         plt.show()
     
     def plot_uncertainty_comparison(self, result, feature_names, title = None, class_name=None):
@@ -373,7 +317,7 @@ class ExplainerClassification:
             title = f"Class: {class_name}"
             
         fig, axes = plt.subplots(3, 1, figsize=(15, 15), sharey=True)
-        plt.suptitle(title, fontsize=12, y=0.95)
+        plt.suptitle(title, fontsize=16, y=0.95)
         
         # Sort by SHAP magnitude
         order = np.argsort(result['mean'])
@@ -391,14 +335,14 @@ class ExplainerClassification:
             edgecolor='gray',
             linewidth=0.5
         )
-        axes[0].set_title('Standard Deviation of SHAP Values', fontsize=12, pad=8)
-        axes[0].set_xlabel('Magnitude of Uncertainty', fontsize=12)
+        axes[0].set_title('Standard Deviation of SHAP Values', fontsize=16, pad=8)
+        axes[0].set_xlabel('Magnitude of Uncertainty', fontsize=16)
         axes[0].axvline(np.mean(result['std']), color='red', linestyle='--', alpha=0.7)
         axes[0].text(
             np.mean(result['std']) + 0.01, len(feature_names)*0.8, 
             f'Mean: {np.mean(result["std"]):.3f}',
             color='red',
-            fontsize=12
+            fontsize=16
         )
         axes[0].grid(axis='x', alpha=0.2)
         
@@ -411,14 +355,14 @@ class ExplainerClassification:
             edgecolor='gray',
             linewidth=0.5
         )
-        axes[1].set_title('Explanation Entropy (Information Uncertainty)', fontsize=12, pad=8)
-        axes[1].set_xlabel('Entropy Value', fontsize=12)
+        axes[1].set_title('Explanation Entropy (Information Uncertainty)', fontsize=16, pad=8)
+        axes[1].set_xlabel('Entropy Value', fontsize=16)
         axes[1].axvline(np.mean(result['entropy']), color='red', linestyle='--', alpha=0.7)
         axes[1].text(
             np.mean(result['entropy']) + 0.01, len(feature_names)*0.8, 
             f'Mean: {np.mean(result["entropy"]):.3f}',
             color='red',
-            fontsize=12
+            fontsize=16
         )
         axes[1].grid(axis='x', alpha=0.2)
         
@@ -431,8 +375,8 @@ class ExplainerClassification:
             edgecolor='gray',
             linewidth=0.5
         )
-        axes[2].set_title('Sign Stability (Direction Consistency)', fontsize=12, pad=8)
-        axes[2].set_xlabel('Probability of Consistent Direction', fontsize=12)
+        axes[2].set_title('Sign Stability (Direction Consistency)', fontsize=16, pad=8)
+        axes[2].set_xlabel('Probability of Consistent Direction', fontsize=16)
         axes[2].set_xlim(0, 1)
         axes[2].grid(axis='x', alpha=0.2)
 
@@ -447,7 +391,7 @@ class ExplainerClassification:
             mlines.Line2D([], [], color='orange', linestyle='--', label='Medium Confidence (≥ 0.7)'),
             mlines.Line2D([], [], color='red', linestyle='--', label='Low Confidence (< 0.7)')
         ]
-        axes[2].legend(handles=legend_lines, loc='upper right', fontsize=12, frameon=True, framealpha=0.9)
+        axes[2].legend(handles=legend_lines, loc='upper right', fontsize=16, frameon=True, framealpha=0.9)
 
         plt.tight_layout()
         plt.show()
