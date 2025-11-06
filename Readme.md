@@ -49,57 +49,6 @@ Finally, systematically compare all features across three orthogonal measures of
 
 -----
 
-## Quickstart: Example Usage 
-
-
-```python
-from UBiQTree import ExplainerClassification
-import numpy as np
-
-# Assume 'model' is your trained RandomForest classifier (e.g., RandomForest)
-# and 'X_train', 'y_train', 'X_test' are your data.
-# 'feature_names' and 'class_names' are lists of strings.
-
-explainer = ExplainerClassification(model, X_train, y_train, beta=3.0, random_state=42)
-
-# Explain the first instance from the test set
-instance = X_test[0:1]
-
-# Generate explanations and plots for each class
-for class_idx, class_name in enumerate(class_names):
-    print(f"\nExplaining for class: {class_name}")
-    results = explainer.explain(instance, n_samples=300, class_idx=class_idx, alpha=0.5)
-
-    # 1. Plot aggregate uncertainty with violin plots
-    # Note: Assuming plot_uncertainty_bars now renders violins or similar
-    explainer.plot_uncertainty_bars(
-        results,
-        feature_names,
-        class_name=class_name
-    )
-
-    # 2. Plot uncertainty distribution for the top 5 features
-    top5_indices = np.argsort(np.abs(results["mean"]))[-5:]
-    for i in top5_indices:
-        explainer.plot_uncertainty_distribution(
-            results,
-            feature_names,
-            i,
-            class_name=class_name,
-            ylim=(0, 20),
-            xlim=(-0.4, 0.4)
-        )
-
-    # 3. Plot the global comparison of uncertainty metrics
-    explainer.plot_uncertainty_comparison(
-        results,
-        feature_names,
-        class_name=class_name
-    )
-```
-
------
-
 ## Citation 📜
 
 If you use this work in your research, please cite the original paper:
